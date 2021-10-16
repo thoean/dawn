@@ -24,7 +24,7 @@
           "settings": {
             "button_label_1": "Zu den Produkten",
             "button_link_1": "shopify:\/\/collections\/all",
-            "button_style_secondary_1": true,
+            "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
@@ -38,7 +38,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Colombia_-_a_region_with_fine_flavored_cacao.jpg",
-        "image_height": "medium",
+        "image_height": "small",
         "adapt_height_first_image": false,
         "desktop_text_box_position": "center",
         "show_text_box": false,
@@ -310,7 +310,7 @@
         "title": "Wähle deinen Kakao Ursprung",
         "image_ratio": "square",
         "color_scheme": "background-1",
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "image_padding": false,
         "show_view_all": false
       }
