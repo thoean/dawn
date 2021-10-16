@@ -104,6 +104,12 @@
           "settings": {
             "collection": "kuerzi-kakao"
           }
+        },
+        "c48aa920-d630-4de7-924e-5496aa11d5ea": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "la-flor"
+          }
         }
       },
       "block_order": [
@@ -121,7 +127,8 @@
         "1d238451-8b4b-4242-8e1b-34fc46860023",
         "a07141b0-4a7f-4e29-ba45-071b12a7cc61",
         "e9420784-5b26-4805-b28e-2e0b642789b7",
-        "62d00cdb-6562-4a98-93d2-99e3edc20fba"
+        "62d00cdb-6562-4a98-93d2-99e3edc20fba",
+        "c48aa920-d630-4de7-924e-5496aa11d5ea"
       ],
       "settings": {
         "title": "Alle Schokoladen Hersteller",
