@@ -11,6 +11,71 @@
         "image_padding": false
       }
     },
+    "16343745846e5e6627": {
+      "type": "collection-list",
+      "blocks": {
+        "16343745846e5e6627-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cacao-betulia-schweizer-hacienda-in-kolumbien-produziert-schokolade"
+          }
+        },
+        "16343745846e5e6627-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "garcoa"
+          }
+        },
+        "16343745846e5e6627-2": {
+          "type": "featured_collection",
+          "disabled": true,
+          "settings": {
+            "collection": "gebruder-grimm"
+          }
+        },
+        "75f5b73a-c5c4-441b-a1aa-a8c05c2cebb4": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "kuerzi-kakao"
+          }
+        },
+        "b9b7f877-35c4-4302-b7b7-c11ea8a6e81f": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "la-flor"
+          }
+        },
+        "3f890ce4-7d69-4b0f-8f3d-991a0ff5bcc1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "orfeve-chocolate"
+          }
+        },
+        "80b629df-b080-4363-95f4-7a50926fd30a": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "taucherli"
+          }
+        }
+      },
+      "block_order": [
+        "16343745846e5e6627-0",
+        "16343745846e5e6627-1",
+        "16343745846e5e6627-2",
+        "75f5b73a-c5c4-441b-a1aa-a8c05c2cebb4",
+        "b9b7f877-35c4-4302-b7b7-c11ea8a6e81f",
+        "3f890ce4-7d69-4b0f-8f3d-991a0ff5bcc1",
+        "80b629df-b080-4363-95f4-7a50926fd30a"
+      ],
+      "settings": {
+        "title": "Schweizer Bean to Bar Schokoladen Hersteller",
+        "image_ratio": "square",
+        "color_scheme": "background-1",
+        "swipe_on_mobile": true,
+        "image_padding": true,
+        "show_view_all": false
+      }
+    },
     "163437377431f866c3": {
       "type": "collection-list",
       "blocks": {
@@ -20,59 +85,16 @@
             "collection": "akessons"
           }
         },
-        "163437377431f866c3-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "cacao-betulia-schweizer-hacienda-in-kolumbien-produziert-schokolade"
-          }
-        },
         "163437377431f866c3-2": {
           "type": "featured_collection",
           "settings": {
             "collection": "chocolate-tree"
           }
         },
-        "0e3effbd-57bd-4c1b-ba61-65e908f7d5b3": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "cielo-dentro-chocolate"
-          }
-        },
-        "ad2358df-52b3-4c04-bd71-6dfed4498144": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "dandelion"
-          }
-        },
-        "a726f165-5f0a-4c62-9bdb-140142cda487": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "definite-chocolate"
-          }
-        },
-        "d4fb625e-52f7-4796-822e-8f3b59ec85b5": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "dick-taylor"
-          }
-        },
         "7a34722a-ef27-4c00-bdb4-f6f03c2b4c32": {
           "type": "featured_collection",
           "settings": {
             "collection": "friis-holm"
-          }
-        },
-        "bdbcbbb8-673c-471f-b1a7-937797a49e45": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "garcoa"
-          }
-        },
-        "2de30046-d6cc-444a-8ded-678cd033f9d3": {
-          "type": "featured_collection",
-          "disabled": true,
-          "settings": {
-            "collection": "gebruder-grimm"
           }
         },
         "5630b79a-86f3-4e62-8b50-b1fbf8d3001d": {
@@ -96,42 +118,113 @@
         "e9420784-5b26-4805-b28e-2e0b642789b7": {
           "type": "featured_collection",
           "settings": {
-            "collection": "krakakoa"
+            "collection": "rozsavolgyi-csokolade"
           }
         },
         "62d00cdb-6562-4a98-93d2-99e3edc20fba": {
           "type": "featured_collection",
           "settings": {
-            "collection": "kuerzi-kakao"
-          }
-        },
-        "c48aa920-d630-4de7-924e-5496aa11d5ea": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "la-flor"
+            "collection": "zoto"
           }
         }
       },
       "block_order": [
         "163437377431f866c3-0",
-        "163437377431f866c3-1",
         "163437377431f866c3-2",
-        "0e3effbd-57bd-4c1b-ba61-65e908f7d5b3",
-        "ad2358df-52b3-4c04-bd71-6dfed4498144",
-        "a726f165-5f0a-4c62-9bdb-140142cda487",
-        "d4fb625e-52f7-4796-822e-8f3b59ec85b5",
         "7a34722a-ef27-4c00-bdb4-f6f03c2b4c32",
-        "bdbcbbb8-673c-471f-b1a7-937797a49e45",
-        "2de30046-d6cc-444a-8ded-678cd033f9d3",
         "5630b79a-86f3-4e62-8b50-b1fbf8d3001d",
         "1d238451-8b4b-4242-8e1b-34fc46860023",
         "a07141b0-4a7f-4e29-ba45-071b12a7cc61",
         "e9420784-5b26-4805-b28e-2e0b642789b7",
-        "62d00cdb-6562-4a98-93d2-99e3edc20fba",
-        "c48aa920-d630-4de7-924e-5496aa11d5ea"
+        "62d00cdb-6562-4a98-93d2-99e3edc20fba"
       ],
       "settings": {
-        "title": "Alle Schokoladen Hersteller",
+        "title": "Europäische Schokoladen Hersteller",
+        "image_ratio": "square",
+        "color_scheme": "background-1",
+        "swipe_on_mobile": true,
+        "image_padding": true,
+        "show_view_all": false
+      }
+    },
+    "1634374557a84c0a0d": {
+      "type": "collection-list",
+      "blocks": {
+        "1634374557a84c0a0d-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cielo-dentro-chocolate"
+          }
+        },
+        "bfaf6ca9-e7d4-4ac7-8b17-a1da602e652e": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "dandelion"
+          }
+        },
+        "a14f7872-6741-44f8-ba63-778d3b23451c": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "definite-chocolate"
+          }
+        },
+        "fd10947b-a3fc-4e08-a7e2-a7d590288db0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "dick-taylor"
+          }
+        },
+        "070baff0-3d3c-471f-9d29-1d8e64838b8b": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "krakakoa"
+          }
+        },
+        "1634374557a84c0a0d-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "luisa-abram"
+          }
+        },
+        "1634374557a84c0a0d-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "marana-craft-chocolate"
+          }
+        },
+        "969bc3f9-5c4f-42aa-93f7-dfe7d8051323": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "menakao"
+          }
+        },
+        "f0739852-e946-468c-8703-e34e62c4ec44": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "palato"
+          }
+        },
+        "ed705893-5022-4ac0-8793-a4963d67c0ee": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "taza-chocolate"
+          }
+        }
+      },
+      "block_order": [
+        "1634374557a84c0a0d-0",
+        "bfaf6ca9-e7d4-4ac7-8b17-a1da602e652e",
+        "a14f7872-6741-44f8-ba63-778d3b23451c",
+        "fd10947b-a3fc-4e08-a7e2-a7d590288db0",
+        "070baff0-3d3c-471f-9d29-1d8e64838b8b",
+        "1634374557a84c0a0d-1",
+        "1634374557a84c0a0d-2",
+        "969bc3f9-5c4f-42aa-93f7-dfe7d8051323",
+        "f0739852-e946-468c-8703-e34e62c4ec44",
+        "ed705893-5022-4ac0-8793-a4963d67c0ee"
+      ],
+      "settings": {
+        "title": "Bean to Bar Schokolade aus aller Welt",
         "image_ratio": "square",
         "color_scheme": "background-1",
         "swipe_on_mobile": true,
@@ -142,6 +235,8 @@
   },
   "order": [
     "main",
-    "163437377431f866c3"
+    "16343745846e5e6627",
+    "163437377431f866c3",
+    "1634374557a84c0a0d"
   ]
 }
