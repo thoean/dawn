@@ -234,6 +234,7 @@
     },
     "1634375900421b4e15": {
       "type": "collage",
+      "disabled": true,
       "blocks": {
         "1634375900421b4e15-2": {
           "type": "collection",
