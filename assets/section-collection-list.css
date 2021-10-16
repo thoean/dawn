@@ -68,8 +68,20 @@
     max-width: 33.33%;
   }
 
-  .collection-list.grid--4-col-tablet .grid__item {
-    max-width: 25%;
+  .collection-list--2-items .grid__item:nth-child(n) {
+    max-width: 50%
+  }
+
+  .collection-list--4-items .grid__item:nth-child(n) {
+    max-width: 25%
+  }
+
+  .collection-list--3-items .grid__item:nth-child(n),
+  .collection-list--5-items .grid__item:nth-child(n),
+  .collection-list--6-items .grid__item:nth-child(n),
+  .collection-list--7-items .grid__item:nth-child(n),
+  .collection-list--8-items .grid__item:nth-child(n) {
+    max-width: 33%
   }
 }
 
