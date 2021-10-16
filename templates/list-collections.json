@@ -2,12 +2,139 @@
   "sections": {
     "main": {
       "type": "main-list-collections",
+      "disabled": true,
       "settings": {
-        "image_ratio": "square"
+        "title": "Collections",
+        "sort": "alphabetical",
+        "image_ratio": "square",
+        "color_scheme": "background-1",
+        "image_padding": false
+      }
+    },
+    "163437377431f866c3": {
+      "type": "collection-list",
+      "blocks": {
+        "163437377431f866c3-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "akessons"
+          }
+        },
+        "163437377431f866c3-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cacao-betulia-schweizer-hacienda-in-kolumbien-produziert-schokolade"
+          }
+        },
+        "163437377431f866c3-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "chocolate-tree"
+          }
+        },
+        "0e3effbd-57bd-4c1b-ba61-65e908f7d5b3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cielo-dentro-chocolate"
+          }
+        },
+        "ad2358df-52b3-4c04-bd71-6dfed4498144": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "dandelion"
+          }
+        },
+        "a726f165-5f0a-4c62-9bdb-140142cda487": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "definite-chocolate"
+          }
+        },
+        "d4fb625e-52f7-4796-822e-8f3b59ec85b5": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "dick-taylor"
+          }
+        },
+        "7a34722a-ef27-4c00-bdb4-f6f03c2b4c32": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "friis-holm"
+          }
+        },
+        "bdbcbbb8-673c-471f-b1a7-937797a49e45": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "garcoa"
+          }
+        },
+        "2de30046-d6cc-444a-8ded-678cd033f9d3": {
+          "type": "featured_collection",
+          "disabled": true,
+          "settings": {
+            "collection": "gebruder-grimm"
+          }
+        },
+        "5630b79a-86f3-4e62-8b50-b1fbf8d3001d": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "georgia-ramon"
+          }
+        },
+        "1d238451-8b4b-4242-8e1b-34fc46860023": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "karuna-chocolate"
+          }
+        },
+        "a07141b0-4a7f-4e29-ba45-071b12a7cc61": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "krak-chocolade"
+          }
+        },
+        "e9420784-5b26-4805-b28e-2e0b642789b7": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "krakakoa"
+          }
+        },
+        "62d00cdb-6562-4a98-93d2-99e3edc20fba": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "kuerzi-kakao"
+          }
+        }
+      },
+      "block_order": [
+        "163437377431f866c3-0",
+        "163437377431f866c3-1",
+        "163437377431f866c3-2",
+        "0e3effbd-57bd-4c1b-ba61-65e908f7d5b3",
+        "ad2358df-52b3-4c04-bd71-6dfed4498144",
+        "a726f165-5f0a-4c62-9bdb-140142cda487",
+        "d4fb625e-52f7-4796-822e-8f3b59ec85b5",
+        "7a34722a-ef27-4c00-bdb4-f6f03c2b4c32",
+        "bdbcbbb8-673c-471f-b1a7-937797a49e45",
+        "2de30046-d6cc-444a-8ded-678cd033f9d3",
+        "5630b79a-86f3-4e62-8b50-b1fbf8d3001d",
+        "1d238451-8b4b-4242-8e1b-34fc46860023",
+        "a07141b0-4a7f-4e29-ba45-071b12a7cc61",
+        "e9420784-5b26-4805-b28e-2e0b642789b7",
+        "62d00cdb-6562-4a98-93d2-99e3edc20fba"
+      ],
+      "settings": {
+        "title": "Alle Schokoladen Hersteller",
+        "image_ratio": "square",
+        "color_scheme": "background-1",
+        "swipe_on_mobile": true,
+        "image_padding": true,
+        "show_view_all": false
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "163437377431f866c3"
   ]
 }
