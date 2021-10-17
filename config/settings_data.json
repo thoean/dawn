@@ -17,7 +17,7 @@
     "predictive_search_show_vendor": true,
     "predictive_search_show_price": true,
     "favicon": "shopify:\/\/shop_images\/favicon_the-small-batch-project.png",
-    "currency_code_enabled": true,
+    "currency_code_enabled": false,
     "checkout_header_image": "shopify:\/\/shop_images\/IMG_4194_127e1c5d-6ff2-409d-be7a-c720be216950.jpg",
     "checkout_body_background_color": "#ffffff",
     "sections": {
