@@ -71,7 +71,7 @@
         "title": "Schweizer Bean to Bar Schokoladen Hersteller",
         "image_ratio": "square",
         "color_scheme": "background-1",
-        "swipe_on_mobile": true,
+        "swipe_on_mobile": false,
         "image_padding": true,
         "show_view_all": false
       }
@@ -142,7 +142,7 @@
         "title": "Europäische Schokoladen Hersteller",
         "image_ratio": "square",
         "color_scheme": "background-1",
-        "swipe_on_mobile": true,
+        "swipe_on_mobile": false,
         "image_padding": true,
         "show_view_all": false
       }
@@ -227,7 +227,7 @@
         "title": "Bean to Bar Schokolade aus aller Welt",
         "image_ratio": "square",
         "color_scheme": "background-1",
-        "swipe_on_mobile": true,
+        "swipe_on_mobile": false,
         "image_padding": true,
         "show_view_all": false
       }
