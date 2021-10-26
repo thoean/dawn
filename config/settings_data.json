@@ -1,18 +1,22 @@
 {
   "current": {
     "colors_solid_button_labels": "#ffffff",
-    "colors_accent_1": "#121212",
-    "colors_accent_2": "#334fb4",
-    "colors_text": "#121212",
-    "colors_outline_button_labels": "#121212",
-    "colors_background_1": "#ffffff",
-    "colors_background_2": "#f3f3f3",
+    "colors_accent_1": "#b4a291",
+    "colors_accent_2": "#3d4246",
+    "colors_text": "#2b1010",
+    "colors_outline_button_labels": "#2b1010",
+    "colors_background_1": "#f1ede9",
+    "colors_background_2": "#e6ddd4",
     "type_header_font": "assistant_n4",
+    "heading_scale": 100,
     "type_body_font": "assistant_n4",
+    "body_scale": 120,
+    "sale_badge_color_scheme": "accent-2",
     "sold_out_badge_color_scheme": "inverse",
     "page_width": "1600",
     "social_twitter_link": "https:\/\/twitter.com\/smallbatchproj",
     "social_facebook_link": "https:\/\/www.facebook.com\/thesmallbatchproject",
+    "social_pinterest_link": "https:\/\/www.pinterest.com\/thesmallbatchproject",
     "social_instagram_link": "https:\/\/www.instagram.com\/thesmallbatchproject\/",
     "predictive_search_show_vendor": true,
     "predictive_search_show_price": true,
@@ -87,7 +91,15 @@
     },
     "content_for_index": [
 
-    ]
+    ],
+    "blocks": {
+      "1635278631ac96b7df": {
+        "type": "shopify:\/\/apps\/gdpr-ccpa-compliance-manager\/blocks\/app-embed\/e2ac5ac3-1765-477b-ac58-d792f9a65f3a",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    }
   },
   "presets": {
     "Default": {
