@@ -128,11 +128,118 @@
         "swipe_on_mobile": false
       }
     },
+    "1636229317822fe82a": {
+      "type": "featured-product",
+      "disabled": true,
+      "blocks": {
+        "1636229317822fe82a-0": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "1636229317822fe82a-1": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "1636229317822fe82a-2": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "{{ section.settings.product.title }}",
+            "text_style": "subtitle"
+          }
+        },
+        "1636229317822fe82a-3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "1636229317822fe82a-4": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "1636229317822fe82a-5": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "1636229317822fe82a-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "1636229317822fe82a-7": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "1636229317822fe82a-0",
+        "1636229317822fe82a-1",
+        "1636229317822fe82a-2",
+        "1636229317822fe82a-3",
+        "1636229317822fe82a-4",
+        "1636229317822fe82a-5",
+        "1636229317822fe82a-6",
+        "1636229317822fe82a-7"
+      ],
+      "settings": {
+        "product": "garcoa-ana-maria-guatemala-73",
+        "secondary_background": false,
+        "hide_variants": false,
+        "enable_video_looping": false
+      }
+    },
+    "16362294812b767bed": {
+      "type": "image-with-text",
+      "blocks": {
+        "16362294812b767bed-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Neu! Garçoa Finca Ana Maria aus Guatemala"
+          }
+        },
+        "16362294812b767bed-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Probiere Kakao aus Guatemala von der Finca Ana Maria. Wir sind begeistert von dem frischen Geschmack nach Beeren und einem Hauch von Zitrus.<\/p>"
+          }
+        },
+        "16362294812b767bed-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Erfahre mehr",
+            "button_link": "shopify:\/\/products\/garcoa-ana-maria-guatemala-73"
+          }
+        }
+      },
+      "block_order": [
+        "16362294812b767bed-0",
+        "16362294812b767bed-1",
+        "16362294812b767bed-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Garcoa_Ana_Maria_weiss.png",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
     "featured_products": {
       "type": "featured-collection",
       "settings": {
-        "title": "Neu! Krakakoa aus Indonesien",
-        "collection": "krakakoa",
+        "title": "Weitere Single-Origin Schokoladetafeln von Garçoa",
+        "collection": "garcoa",
         "products_to_show": 4,
         "show_view_all": true,
         "swipe_on_mobile": true,
@@ -550,6 +657,8 @@
     "image_banner",
     "rich_text",
     "16323409663de6630b",
+    "1636229317822fe82a",
+    "16362294812b767bed",
     "featured_products",
     "1632342325414527c5",
     "163437571994d93585",
