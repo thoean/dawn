@@ -23,7 +23,13 @@
     "favicon": "shopify:\/\/shop_images\/favicon_the-small-batch-project.png",
     "currency_code_enabled": false,
     "checkout_header_image": "shopify:\/\/shop_images\/IMG_4194_127e1c5d-6ff2-409d-be7a-c720be216950.jpg",
-    "checkout_body_background_color": "#ffffff",
+    "checkout_logo_image": "shopify:\/\/shop_images\/The_small_batch_project_logo_mit_text_rechts_weiss.png",
+    "checkout_logo_size": "large",
+    "checkout_body_background_color": "#f1ede9",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_color": "#e6ddd4",
+    "checkout_accent_color": "#8a7561",
+    "checkout_button_color": "#b4a291",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
