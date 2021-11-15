@@ -239,7 +239,7 @@
     "featured_products": {
       "type": "featured-collection",
       "settings": {
-        "title": "Weitere Single-Origin Schokoladetafeln von Garçoa",
+        "title": "Die schönsten Tafeln aus Südtirol - Karuna",
         "collection": "karuna-chocolate",
         "products_to_show": 4,
         "show_view_all": true,
