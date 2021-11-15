@@ -202,6 +202,7 @@
     },
     "16362294812b767bed": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "16362294812b767bed-0": {
           "type": "heading",
@@ -239,7 +240,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "Weitere Single-Origin Schokoladetafeln von Garçoa",
-        "collection": "garcoa",
+        "collection": "karuna-chocolate",
         "products_to_show": 4,
         "show_view_all": true,
         "swipe_on_mobile": true,
