@@ -93,6 +93,7 @@
         },
         "7a34722a-ef27-4c00-bdb4-f6f03c2b4c32": {
           "type": "featured_collection",
+          "disabled": true,
           "settings": {
             "collection": "friis-holm"
           }
