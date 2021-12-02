@@ -451,12 +451,18 @@
       "@type": "Brand",
       "name": {{ product.vendor | json }}
     },
+    {%- if product.has_only_default_variant and product.selected_or_first_available_variant.barcode != blank -%}
+      "gtin": {{ product.selected_or_first_available_variant.barcode | json }},
+    {% endif %}
     "offers": [
       {%- for variant in product.variants -%}
         {
           "@type" : "Offer",
           {%- if variant.sku != blank -%}
             "sku": {{ variant.sku | json }},
+          {%- endif -%}
+          {%- if variant.barcode != blank -%}
+            "gtin": {{ variant.barcode | json }},
           {%- endif -%}
           "availability" : "http://schema.org/{% if variant.available %}InStock{% else %}OutOfStock{% endif %}",
           "price" : {{ variant.price | divided_by: 100.00 | json }},
