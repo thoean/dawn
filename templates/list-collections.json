@@ -171,6 +171,7 @@
         },
         "fd10947b-a3fc-4e08-a7e2-a7d590288db0": {
           "type": "featured_collection",
+          "disabled": true,
           "settings": {
             "collection": "dick-taylor"
           }
