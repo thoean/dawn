@@ -128,78 +128,6 @@
         "swipe_on_mobile": false
       }
     },
-    "1636229317822fe82a": {
-      "type": "featured-product",
-      "disabled": true,
-      "blocks": {
-        "1636229317822fe82a-0": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "1636229317822fe82a-1": {
-          "type": "title",
-          "settings": {
-          }
-        },
-        "1636229317822fe82a-2": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "{{ section.settings.product.title }}",
-            "text_style": "subtitle"
-          }
-        },
-        "1636229317822fe82a-3": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "1636229317822fe82a-4": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "1636229317822fe82a-5": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
-        "1636229317822fe82a-6": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true
-          }
-        },
-        "1636229317822fe82a-7": {
-          "type": "share",
-          "disabled": true,
-          "settings": {
-            "share_label": "Share"
-          }
-        }
-      },
-      "block_order": [
-        "1636229317822fe82a-0",
-        "1636229317822fe82a-1",
-        "1636229317822fe82a-2",
-        "1636229317822fe82a-3",
-        "1636229317822fe82a-4",
-        "1636229317822fe82a-5",
-        "1636229317822fe82a-6",
-        "1636229317822fe82a-7"
-      ],
-      "settings": {
-        "product": "garcoa-ana-maria-guatemala-73",
-        "secondary_background": false,
-        "hide_variants": false,
-        "enable_video_looping": false
-      }
-    },
     "16362294812b767bed": {
       "type": "image-with-text",
       "disabled": true,
@@ -315,13 +243,13 @@
         "163437571994d93585-2": {
           "type": "featured_collection",
           "settings": {
-            "collection": "dandelion"
+            "collection": "karuna-chocolate"
           }
         },
         "9d46f318-6198-4dc4-8404-88aabbf87bbb": {
           "type": "featured_collection",
           "settings": {
-            "collection": "kuerzi-kakao"
+            "collection": "garcoa"
           }
         }
       },
@@ -658,7 +586,6 @@
     "image_banner",
     "rich_text",
     "16323409663de6630b",
-    "1636229317822fe82a",
     "16362294812b767bed",
     "featured_products",
     "1632342325414527c5",
