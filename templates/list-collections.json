@@ -118,6 +118,7 @@
         },
         "e9420784-5b26-4805-b28e-2e0b642789b7": {
           "type": "featured_collection",
+          "disabled": true,
           "settings": {
             "collection": "rozsavolgyi-csokolade"
           }
