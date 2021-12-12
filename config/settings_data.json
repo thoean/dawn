@@ -36,10 +36,9 @@
         "blocks": {
           "announcement-bar-0": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
-              "text": "Announcements",
-              "color_scheme": "inverse",
+              "text": "Bestelle bis zum 22. Dezember und erhalte alles vor Weihnachten",
+              "color_scheme": "accent-2",
               "link": ""
             }
           }
