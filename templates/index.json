@@ -38,6 +38,8 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Colombia_-_a_region_with_fine_flavored_cacao.jpg",
+        "avoid_lazy_loading_image": true,
+        "avoid_lazy_loading_image_2": false,
         "image_height": "small",
         "adapt_height_first_image": false,
         "desktop_text_box_position": "center",
@@ -215,6 +217,8 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Dark_bean_to_bar_chocolate_bars.jpg",
+        "avoid_lazy_loading_image": false,
+        "avoid_lazy_loading_image_2": false,
         "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_text_box_position": "center",
@@ -460,6 +464,8 @@
       "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_4605.jpg",
+        "avoid_lazy_loading_image": false,
+        "avoid_lazy_loading_image_2": false,
         "image_height": "small",
         "adapt_height_first_image": false,
         "desktop_text_box_position": "center",
@@ -505,6 +511,8 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/The_small_batch_project_klein_842d08c2-fc35-4303-8f2b-434a5cc336d5.JPG",
+        "avoid_lazy_loading_image": false,
+        "avoid_lazy_loading_image_2": false,
         "image_height": "small",
         "adapt_height_first_image": false,
         "desktop_text_box_position": "center",
