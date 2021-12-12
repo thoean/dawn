@@ -894,7 +894,7 @@
         "image_overlay_opacity": {
           "label": "Image overlay opacity"
         },
-        "avoid_lazy_loading": {
+        "avoid_lazy_loading_image": {
           "label": "Load image with priority",
           "info": "Use this option to improve SEO. Images which should how up with high priority, such as hero images or images at the top of the page."
         },

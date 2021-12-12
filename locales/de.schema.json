@@ -769,7 +769,7 @@
         "image_2": {
           "label": "Zweites Bild"
         },
-        "avoid_lazy_loading": {
+        "avoid_lazy_loading_image": {
           "label": "Bild priorisiert laden",
           "info": "Diese Option dient zur Verbesserung von SEO, um Bilder zu bevorzugen, die beim Anzeigen der Webseite schneller sichtbar gemacht werden sollen, vor allem Hero Bilder oder Bilder im oberen Bereich der Webseite."
         },
