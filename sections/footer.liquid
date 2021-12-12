@@ -305,7 +305,10 @@
         {%- endif -%}
         <div class="footer__copyright caption">
           <small class="copyright__content">&copy; {{ 'now' | date: "%Y" }}, {{ shop.name | link_to: routes.root_url }}</small>
-          <small class="copyright__content">{{ powered_by_link }}</small>
+          <small class="copyright__content">{{ powered_by_link }}</small><br>
+          {% for policy in shop.policies %}
+            <small class="copyright__content">{{ policy.title | link_to: policy.url }}</small>
+          {% endfor %}
         </div>
       </div>
     </div>
