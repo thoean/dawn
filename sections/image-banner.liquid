@@ -45,7 +45,9 @@
           {{ section.settings.image | img_url: 'master' }} {{ section.settings.image.width }}w"
         sizes="{% if section.settings.image_2 != blank and section.settings.stack_images_on_mobile %}(min-width: 750px) 50vw, 100vw{% elsif section.settings.image_2 != blank %}50vw{% else %}100vw{% endif %}"
         src="{{ section.settings.image | img_url: '1500x' }}"
-        {% comment %}loading="lazy" {% endcomment %}
+        {%- unless section.settings.avoid_lazy_loading_image -%}
+          loading="lazy"
+        {% endunless %}
         alt="{{ section.settings.image.alt | escape }}"
         width="{{ section.settings.image.width }}"
         height="{{ section.settings.image.width | divided_by: section.settings.image.aspect_ratio }}"
@@ -71,7 +73,9 @@
           {{ section.settings.image_2 | img_url: 'master' }} {{ section.settings.image_2.width }}w"
         sizes="{% if section.settings.image != blank and section.settings.stack_images_on_mobile %}(min-width: 750px) 50vw, 100vw{% elsif section.settings.image != blank %}50vw{% else %}100vw{% endif %}"
         src="{{ section.settings.image_2 | img_url: '1500x' }}"
-        loading="lazy"
+        {%- unless section.settings.avoid_lazy_loading_image_2 -%}
+          loading="lazy"
+        {% endunless %}
         alt="{{ section.settings.image_2.alt | escape }}"
         width="{{ section.settings.image_2.width }}"
         height="{{ section.settings.image_2.width | divided_by: section.settings.image_2.aspect_ratio }}"
@@ -119,6 +123,13 @@
       "label": "t:sections.image-banner.settings.image.label"
     },
     {
+      "type": "checkbox",
+      "id": "avoid_lazy_loading_image",
+      "default": false,
+      "label": "t:sections.image-banner.settings.avoid_lazy_loading_image.label",
+      "info": "t:sections.image-banner.settings.avoid_lazy_loading_image.info"
+    },
+    {
       "type": "image_picker",
       "id": "image_2",
       "label": "t:sections.image-banner.settings.image_2.label"
@@ -132,6 +143,13 @@
       "unit": "%",
       "label": "t:sections.image-banner.settings.image_overlay_opacity.label",
       "default": 0
+    },
+    {
+      "type": "checkbox",
+      "id": "avoid_lazy_loading_image_2",
+      "default": false,
+      "label": "t:sections.image-banner.settings.avoid_lazy_loading_image.label",
+      "info": "t:sections.image-banner.settings.avoid_lazy_loading_image.info"
     },
     {
       "type": "select",
