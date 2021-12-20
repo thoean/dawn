@@ -160,6 +160,7 @@
         },
         "bfaf6ca9-e7d4-4ac7-8b17-a1da602e652e": {
           "type": "featured_collection",
+          "disabled": true,
           "settings": {
             "collection": "dandelion"
           }
