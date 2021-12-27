@@ -38,6 +38,7 @@
         "blocks": {
           "announcement-bar-0": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "Bestellungen werden erst nach Weihnachten verschickt. Für Weihnachten kann noch das Schoggi-Abo bestellt werden.",
               "color_scheme": "accent-2",
