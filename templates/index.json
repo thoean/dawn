@@ -168,6 +168,7 @@
     },
     "featured_products": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Bean to Bar Schokolade für Weihnachten",
         "collection": "frontpage",
