@@ -28,7 +28,6 @@
         },
         "16343745846e5e6627-2": {
           "type": "featured_collection",
-          "disabled": true,
           "settings": {
             "collection": "gebruder-grimm"
           }
@@ -118,7 +117,6 @@
         },
         "e9420784-5b26-4805-b28e-2e0b642789b7": {
           "type": "featured_collection",
-          "disabled": true,
           "settings": {
             "collection": "rozsavolgyi-csokolade"
           }
@@ -127,6 +125,12 @@
           "type": "featured_collection",
           "settings": {
             "collection": "zoto"
+          }
+        },
+        "51b6013d-e936-4530-8f5e-42de6a060f34": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "svenska-kakaobolaget"
           }
         }
       },
@@ -138,7 +142,8 @@
         "1d238451-8b4b-4242-8e1b-34fc46860023",
         "a07141b0-4a7f-4e29-ba45-071b12a7cc61",
         "e9420784-5b26-4805-b28e-2e0b642789b7",
-        "62d00cdb-6562-4a98-93d2-99e3edc20fba"
+        "62d00cdb-6562-4a98-93d2-99e3edc20fba",
+        "51b6013d-e936-4530-8f5e-42de6a060f34"
       ],
       "settings": {
         "title": "Europäische Schokoladen Hersteller",
