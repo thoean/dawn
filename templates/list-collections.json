@@ -123,8 +123,9 @@
         },
         "62d00cdb-6562-4a98-93d2-99e3edc20fba": {
           "type": "featured_collection",
+          "disabled": true,
           "settings": {
-            "collection": "zoto"
+            "collection": ""
           }
         },
         "51b6013d-e936-4530-8f5e-42de6a060f34": {
@@ -209,8 +210,9 @@
         },
         "f0739852-e946-468c-8703-e34e62c4ec44": {
           "type": "featured_collection",
+          "disabled": true,
           "settings": {
-            "collection": "palato"
+            "collection": ""
           }
         },
         "ed705893-5022-4ac0-8793-a4963d67c0ee": {
