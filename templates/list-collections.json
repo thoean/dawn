@@ -121,17 +121,17 @@
             "collection": "rozsavolgyi-csokolade"
           }
         },
+        "51b6013d-e936-4530-8f5e-42de6a060f34": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "svenska-kakaobolaget"
+          }
+        },
         "62d00cdb-6562-4a98-93d2-99e3edc20fba": {
           "type": "featured_collection",
           "disabled": true,
           "settings": {
             "collection": ""
-          }
-        },
-        "51b6013d-e936-4530-8f5e-42de6a060f34": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "svenska-kakaobolaget"
           }
         }
       },
@@ -143,8 +143,8 @@
         "1d238451-8b4b-4242-8e1b-34fc46860023",
         "a07141b0-4a7f-4e29-ba45-071b12a7cc61",
         "e9420784-5b26-4805-b28e-2e0b642789b7",
-        "62d00cdb-6562-4a98-93d2-99e3edc20fba",
-        "51b6013d-e936-4530-8f5e-42de6a060f34"
+        "51b6013d-e936-4530-8f5e-42de6a060f34",
+        "62d00cdb-6562-4a98-93d2-99e3edc20fba"
       ],
       "settings": {
         "title": "Europäische Schokoladen Hersteller",
@@ -208,17 +208,17 @@
             "collection": "menakao"
           }
         },
+        "ed705893-5022-4ac0-8793-a4963d67c0ee": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "taza-chocolate"
+          }
+        },
         "f0739852-e946-468c-8703-e34e62c4ec44": {
           "type": "featured_collection",
           "disabled": true,
           "settings": {
             "collection": ""
-          }
-        },
-        "ed705893-5022-4ac0-8793-a4963d67c0ee": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "taza-chocolate"
           }
         }
       },
@@ -231,8 +231,8 @@
         "1634374557a84c0a0d-1",
         "1634374557a84c0a0d-2",
         "969bc3f9-5c4f-42aa-93f7-dfe7d8051323",
-        "f0739852-e946-468c-8703-e34e62c4ec44",
-        "ed705893-5022-4ac0-8793-a4963d67c0ee"
+        "ed705893-5022-4ac0-8793-a4963d67c0ee",
+        "f0739852-e946-468c-8703-e34e62c4ec44"
       ],
       "settings": {
         "title": "Bean to Bar Schokolade aus aller Welt",
