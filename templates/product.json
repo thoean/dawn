@@ -51,7 +51,6 @@
         },
         "fe2d1231-d393-487f-9825-58d66dbc6e69": {
           "type": "custom_liquid",
-          "disabled": true,
           "settings": {
             "custom_liquid": "{% if product.metafields.nutrition.energy %}\n<small>\n<strong>Nährwerte pro 100g:<\/strong>\n<ul>\n\n<li>Energie: {{ product.metafields.nutrition.energy }} KJ \/ {{ product.metafields.nutrition.energy | divided_by: 4.184 | floor }} KCal<\/li>\n\n<li>Fett: {{ product.metafields.nutrition.fat.value }}{{ product.metafields.nutrition.fat.unit }}<\/li>\n\n<li>davon gesättigte Fettsäuren: {{ product.metafields.nutrition.saturated_fat.value }}{{ product.metafields.nutrition.saturated_fat.unit }}<\/li>\n\n<li>Kohlenhydrate: {{ product.metafields.nutrition.carbohydrate.value }}{{ product.metafields.nutrition.carbohydrate.unit }}<\/li>\n\n<li>davon Zucker: {{ product.metafields.nutrition.sugar.value }}{{ product.metafields.nutrition.sugar.unit }}<\/li>\n\n<li>Ballaststoffe: {{ product.metafields.nutrition.fiber.value }}{{ product.metafields.nutrition.fiber.unit }}<\/li>\n\n<li>Eiweiss: {{ product.metafields.nutrition.protein.value }}{{ product.metafields.nutrition.protein.unit }}<\/li>\n\n<li>Salz: {{ product.metafields.nutrition.salt.value }}{{ product.metafields.nutrition.salt.unit }}<\/li>\n<\/ul>\n<\/small>\n{% endif %}"
           }
