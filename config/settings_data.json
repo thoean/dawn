@@ -12,7 +12,7 @@
     "type_header_font": "assistant_n4",
     "heading_scale": 100,
     "type_body_font": "assistant_n4",
-    "body_scale": 120,
+    "body_scale": 100,
     "sale_badge_color_scheme": "accent-2",
     "sold_out_badge_color_scheme": "inverse",
     "page_width": "1200",
