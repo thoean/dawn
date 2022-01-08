@@ -49,7 +49,7 @@
       "close": "Paylaşımı kapat"
     },
     "slider": {
-      "of": "/",
+      "of": "\/",
       "next_slide": "Sağa kaydır",
       "previous_slide": "Sola kaydır"
     }
@@ -73,7 +73,7 @@
     "loading": "Yükleniyor...",
     "skip_to_product_info": "Ürün bilgisine atla",
     "total_reviews": "toplam değerlendirme",
-    "star_reviews_info": "{{ rating_value }}/{{ rating_max }} yıldız",
+    "star_reviews_info": "{{ rating_value }}\/{{ rating_max }} yıldız",
     "collapsible_content_title": "Daraltılabilir içerik"
   },
   "blogs": {
@@ -234,7 +234,7 @@
       "empty": "Sepetiniz boş",
       "cart_error": "Sepetiniz güncellenirken bir hata oluştu. Lütfen tekrar deneyin.",
       "cart_quantity_error_html": "Sepetinize bu üründen yalnızca {{ quantity }} adet ekleyebilirsiniz.",
-      "taxes_and_shipping_policy_at_checkout_html": "Vergiler ve <a href=\"{{ link }}\">kargo</a>, ödeme sayfasında hesaplanır",
+      "taxes_and_shipping_policy_at_checkout_html": "Vergiler ve <a href=\"{{ link }}\">kargo<\/a>, ödeme sayfasında hesaplanır",
       "taxes_included_but_shipping_at_checkout": "Vergi dahildir ve kargo, ödeme sayfasında hesaplanır",
       "taxes_included_and_shipping_policy_html": "Vergi dahildir. <a href=\"{{ link }}\">Kargo<\/a>, ödeme sayfasında hesaplanır.",
       "taxes_and_shipping_at_checkout": "Vergiler ve kargo, ödeme sayfasında hesaplanır",

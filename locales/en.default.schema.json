@@ -3,10 +3,10 @@
     "global": {
       "settings": {
         "header__border": {
-          "content":  "Border"
+          "content": "Border"
         },
         "header__shadow": {
-          "content":  "Shadow"
+          "content": "Shadow"
         },
         "blur": {
           "label": "Blur"
@@ -65,7 +65,7 @@
       "name": "Cards",
       "settings": {
         "header__badge": {
-          "content":  "Badge"
+          "content": "Badge"
         },
         "style": {
           "options__1": {
@@ -317,10 +317,10 @@
           "label": "Vertical space between sections"
         },
         "header__grid": {
-          "content":  "Grid"
+          "content": "Grid"
         },
         "paragraph__grid": {
-          "content":  "Affects areas with a multicolumn layout."
+          "content": "Affects areas with a multicolumn layout."
         },
         "spacing_grid_horizontal": {
           "label": "Horizontal space"
@@ -564,7 +564,7 @@
         },
         "show_image": {
           "label": "Show featured image",
-          "info": "For best results, use an image with a 3:2 aspect ratio. [Learn more](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
+          "info": "For best results, use an image with a 3:2 aspect ratio. [Learn more](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
         },
         "soft_background": {
           "label": "Show secondary background"
@@ -909,7 +909,7 @@
           "options__3": {
             "label": "Large"
           },
-          "info": "For best results, use an image with a 3:2 aspect ratio. [Learn more](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
+          "info": "For best results, use an image with a 3:2 aspect ratio. [Learn more](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
         },
         "desktop_content_position": {
           "options__1": {
@@ -1339,7 +1339,7 @@
             "label": "Collage"
           },
           "info": "Posts are stacked on mobile."
-       },
+        },
         "image_height": {
           "label": "Featured image height",
           "options__1": {
@@ -1354,7 +1354,7 @@
           "options__4": {
             "label": "Large"
           },
-          "info": "For best results, use an image with a 3:2 aspect ratio. [Learn more](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
+          "info": "For best results, use an image with a 3:2 aspect ratio. [Learn more](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
         }
       }
     },
@@ -1485,7 +1485,7 @@
           "options__3": {
             "label": "Square"
           },
-          "info": "Add images by editing your collections. [Learn more](https://help.shopify.com/en/manual/products/collections)"
+          "info": "Add images by editing your collections. [Learn more](https:\/\/help.shopify.com\/en\/manual\/products\/collections)"
         }
       }
     },
@@ -2052,7 +2052,7 @@
           "options__4": {
             "label": "Large"
           },
-          "info": "For best results, use an image with a 16:9 aspect ratio. [Learn more](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
+          "info": "For best results, use an image with a 16:9 aspect ratio. [Learn more](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
         },
         "desktop_content_alignment": {
           "options__1": {

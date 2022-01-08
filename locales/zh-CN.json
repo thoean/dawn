@@ -49,7 +49,7 @@
       "close": "关闭分享"
     },
     "slider": {
-      "of": "/",
+      "of": "\/",
       "next_slide": "向右滑动",
       "previous_slide": "向左滑动"
     }
@@ -73,7 +73,7 @@
     "loading": "正在加载…",
     "skip_to_product_info": "跳至产品信息",
     "total_reviews": "总评论数",
-    "star_reviews_info": "{{ rating_value }}/{{ rating_max }} 星",
+    "star_reviews_info": "{{ rating_value }}\/{{ rating_max }} 星",
     "collapsible_content_title": "可折叠内容"
   },
   "blogs": {
@@ -234,7 +234,7 @@
       "empty": "您的购物车为空",
       "cart_error": "更新购物车时出错。请重试。",
       "cart_quantity_error_html": "您只能向购物车添加 {{ quantity }} 件此商品。",
-      "taxes_and_shipping_policy_at_checkout_html": "结账时计算的税费和<a href=\"{{ link }}\">运费</a>",
+      "taxes_and_shipping_policy_at_checkout_html": "结账时计算的税费和<a href=\"{{ link }}\">运费<\/a>",
       "taxes_included_but_shipping_at_checkout": "结账时包含的税费和计算的运费",
       "taxes_included_and_shipping_policy_html": "含税费。结账时计算的<a href=\"{{ link }}\">运费<\/a>。",
       "taxes_and_shipping_at_checkout": "结账时计算的税费和运费",

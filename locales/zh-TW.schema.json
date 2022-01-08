@@ -553,7 +553,7 @@
         },
         "show_image": {
           "label": "顯示精選圖片",
-          "info": "若想要獲得最佳結果，請使用外觀比例為 3:2 的圖片。[瞭解詳情](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
+          "info": "若想要獲得最佳結果，請使用外觀比例為 3:2 的圖片。[瞭解詳情](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
         },
         "soft_background": {
           "label": "顯示次要背景"
@@ -818,7 +818,7 @@
           "options__3": {
             "label": "大"
           },
-          "info": "若想要獲得最佳結果，請使用外觀比例為 3:2 的圖片。[瞭解詳情](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
+          "info": "若想要獲得最佳結果，請使用外觀比例為 3:2 的圖片。[瞭解詳情](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
         },
         "desktop_content_position": {
           "options__1": {
@@ -1232,7 +1232,7 @@
           "options__4": {
             "label": "大"
           },
-          "info": "若想要獲得最佳結果，請使用外觀比例為 3:2 的圖片。[瞭解詳情](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
+          "info": "若想要獲得最佳結果，請使用外觀比例為 3:2 的圖片。[瞭解詳情](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
         }
       }
     },
@@ -1363,7 +1363,7 @@
           "options__3": {
             "label": "正方形"
           },
-          "info": "編輯您的商品系列以新增圖片。[瞭解詳情](https://help.shopify.com/en/manual/products/collections)"
+          "info": "編輯您的商品系列以新增圖片。[瞭解詳情](https:\/\/help.shopify.com\/en\/manual\/products\/collections)"
         }
       }
     },
@@ -2125,7 +2125,7 @@
       "name": "電子郵件訂閱橫幅",
       "settings": {
         "paragraph": {
-          "content": "每筆電子郵件訂閱都會建立顧客帳號。[瞭解詳情](https://help.shopify.com/en/manual/customers)"
+          "content": "每筆電子郵件訂閱都會建立顧客帳號。[瞭解詳情](https:\/\/help.shopify.com\/en\/manual\/customers)"
         },
         "image": {
           "label": "背景圖片"
@@ -2160,7 +2160,7 @@
         },
         "show_text_below": {
           "label": "在行動版圖片下方顯示內容",
-          "info": "若想要獲得最佳結果，請使用寬高比為 16:9 的圖片。[瞭解詳情](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
+          "info": "若想要獲得最佳結果，請使用寬高比為 16:9 的圖片。[瞭解詳情](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
         },
         "image_height": {
           "label": "橫幅高度",
@@ -2176,7 +2176,7 @@
           "options__4": {
             "label": "大"
           },
-          "info": "若想要獲得最佳結果，請使用寬高比為 16:9 的圖片。[瞭解詳情](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
+          "info": "若想要獲得最佳結果，請使用寬高比為 16:9 的圖片。[瞭解詳情](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
         },
         "desktop_content_position": {
           "options__4": {

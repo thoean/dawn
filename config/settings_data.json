@@ -13,8 +13,6 @@
     "heading_scale": 100,
     "type_body_font": "assistant_n4",
     "body_scale": 100,
-    "sale_badge_color_scheme": "accent-2",
-    "sold_out_badge_color_scheme": "inverse",
     "page_width": "1200",
     "social_twitter_link": "https:\/\/twitter.com\/smallbatchproj",
     "social_facebook_link": "https:\/\/www.facebook.com\/thesmallbatchproject",
@@ -32,6 +30,8 @@
     "checkout_sidebar_background_color": "#e6ddd4",
     "checkout_accent_color": "#8a7561",
     "checkout_button_color": "#b4a291",
+    "sale_badge_color_scheme": "accent-2",
+    "sold_out_badge_color_scheme": "inverse",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",

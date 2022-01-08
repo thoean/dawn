@@ -553,7 +553,7 @@
         },
         "show_image": {
           "label": "显示配图",
-          "info": "若要获得最佳效果，请使用纵横比为 3:2 的图片。[了解详细信息](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
+          "info": "若要获得最佳效果，请使用纵横比为 3:2 的图片。[了解详细信息](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
         },
         "soft_background": {
           "label": "显示辅助背景"
@@ -818,7 +818,7 @@
           "options__3": {
             "label": "大"
           },
-          "info": "若要获得最佳效果，请使用纵横比为 3:2 的图片。[了解详细信息](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
+          "info": "若要获得最佳效果，请使用纵横比为 3:2 的图片。[了解详细信息](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
         },
         "desktop_content_position": {
           "options__1": {
@@ -1232,7 +1232,7 @@
           "options__4": {
             "label": "大"
           },
-          "info": "若要获得最佳效果，请使用纵横比为 3:2 的图片。[了解详细信息](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
+          "info": "若要获得最佳效果，请使用纵横比为 3:2 的图片。[了解详细信息](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
         }
       }
     },
@@ -1363,7 +1363,7 @@
           "options__3": {
             "label": "方形"
           },
-          "info": "通过编辑产品集合来添加图片。[了解详细信息](https://help.shopify.com/en/manual/products/collections)"
+          "info": "通过编辑产品集合来添加图片。[了解详细信息](https:\/\/help.shopify.com\/en\/manual\/products\/collections)"
         }
       }
     },
@@ -2125,7 +2125,7 @@
       "name": "电子邮件注册横幅",
       "settings": {
         "paragraph": {
-          "content": "每次电子邮件订阅均会创建一个客户账户。[了解详细信息](https://help.shopify.com/en/manual/customers)"
+          "content": "每次电子邮件订阅均会创建一个客户账户。[了解详细信息](https:\/\/help.shopify.com\/en\/manual\/customers)"
         },
         "image": {
           "label": "背景图片"
@@ -2160,7 +2160,7 @@
         },
         "show_text_below": {
           "label": "在移动设备上的图片下方显示内容。",
-          "info": "若要获得最佳效果，请使用纵横比为 16:9 的图片。[了解详细信息](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
+          "info": "若要获得最佳效果，请使用纵横比为 16:9 的图片。[了解详细信息](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
         },
         "image_height": {
           "label": "横幅高度",
@@ -2176,7 +2176,7 @@
           "options__4": {
             "label": "大"
           },
-          "info": "若要获得最佳效果，请使用纵横比为 16:9 的图片。[了解详细信息](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
+          "info": "若要获得最佳效果，请使用纵横比为 16:9 的图片。[了解详细信息](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
         },
         "desktop_content_position": {
           "options__4": {

@@ -49,7 +49,7 @@
       "close": "Megosztás befejezése"
     },
     "slider": {
-      "of": "/",
+      "of": "\/",
       "next_slide": "Következő dia",
       "previous_slide": "Előző dia"
     }
@@ -73,7 +73,7 @@
     "loading": "Betöltés folyamatban…",
     "skip_to_product_info": "Kihagyás, és ugrás a termékadatokra",
     "total_reviews": "összes értékelés",
-    "star_reviews_info": "{{ rating_max }}/{{ rating_value }} csillag",
+    "star_reviews_info": "{{ rating_max }}\/{{ rating_value }} csillag",
     "collapsible_content_title": "Összecsukható tartalom"
   },
   "blogs": {
@@ -234,7 +234,7 @@
       "empty": "A kosarad üres",
       "cart_error": "Hiba történt a kosár frissítése közben. Próbálkozz újra.",
       "cart_quantity_error_html": "Ebből a termékből legfeljebb {{ quantity }} darabot rakhatsz a kosárba.",
-      "taxes_and_shipping_policy_at_checkout_html": "Az adókat és a <a href=\"{{ link }}\">szállítási költséget</a> a megrendeléskor számítjuk ki",
+      "taxes_and_shipping_policy_at_checkout_html": "Az adókat és a <a href=\"{{ link }}\">szállítási költséget<\/a> a megrendeléskor számítjuk ki",
       "taxes_included_but_shipping_at_checkout": "Tartalmazza a megrendeléskor kiszámított adót és szállítási költséget.",
       "taxes_included_and_shipping_policy_html": "Tartalmazza az adót. A megrendeléskor kiszámított <a href=\"{{ link }}\">szállítási költség<\/a>.",
       "taxes_and_shipping_at_checkout": "Az adókat és a szállítási költséget a megrendeléskor számítjuk ki",
