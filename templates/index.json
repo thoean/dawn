@@ -2,9 +2,6 @@
   "sections": {
     "image_banner": {
       "type": "image-banner",
-      "settings": {
-        "desktop_content_position": "middle-center"
-      },
       "blocks": {
         "heading": {
           "type": "heading",
@@ -16,7 +13,8 @@
         "66a627ce-09bb-4e1a-a479-35aae304bc05": {
           "type": "text",
           "settings": {
-            "text": "Bean to Bar Schokolade aus der Schweiz und aller Welt"
+            "text": "Bean to Bar Schokolade aus der Schweiz und aller Welt",
+            "text_style": "body"
           }
         },
         "button": {
@@ -39,13 +37,15 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Colombia_-_a_region_with_fine_flavored_cacao.jpg",
         "avoid_lazy_loading_image": true,
+        "image_overlay_opacity": 0,
         "avoid_lazy_loading_image_2": false,
         "image_height": "small",
         "adapt_height_first_image": false,
-        "desktop_text_box_position": "center",
+        "desktop_content_position": "middle-center",
         "show_text_box": false,
-        "image_overlay_opacity": 0,
+        "desktop_content_alignment": "center",
         "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": false
       }
@@ -63,7 +63,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p><br\/><\/p><p>Wir suchen weltweit nach handwerklichen Schokoladenmanufakturen die in kleinen Chargen ursprungsspezifisch produzieren<\/p><p><br\/><br\/><\/p>"
+            "text": "<p>Wir suchen weltweit nach handwerklichen Schokoladenmanufakturen die in kleinen Chargen ursprungsspezifisch produzieren.<\/p>"
           }
         },
         "button": {
@@ -83,7 +83,9 @@
       ],
       "settings": {
         "color_scheme": "background-1",
-        "full_width": true
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "16323409663de6630b": {
@@ -94,7 +96,9 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/The_small_batch_project_-_setting_the_table_Karuna_3.jpg",
             "title": "Online Shop für Schokolade",
-            "text": "<p>Die feinsten Schokoladentafeln aus aller Welt. Schokolade online bestellen mit Versand per Post direkt zu dir nach Hause.<\/p><p><a href=\"\/collections\" title=\"All collections\">Zu den Kollektionen<\/a><\/p>"
+            "text": "<p>Die feinsten Schokoladentafeln aus aller Welt. Schokolade online bestellen mit Versand per Post direkt zu dir nach Hause.<\/p><p><a href=\"\/collections\" title=\"All collections\">Zu den Kollektionen<\/a><\/p>",
+            "link_label": "",
+            "link": ""
           }
         },
         "16323409663de6630b-1": {
@@ -102,7 +106,9 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/IMG_20210202_150945.jpg",
             "title": "Schoggi Abo",
-            "text": "<p>Wir suchen für dich die feinsten dunklen Schokoladentafeln aus. Für Geniesser ideal als Geschenkidee. Auf Wunsch vegan.<\/p><p><a href=\"\/products\/schoggi-abo\" title=\"Schoggi Abo\">Bestellen<\/a><\/p>"
+            "text": "<p>Wir suchen für dich die feinsten dunklen Schokoladentafeln aus. Für Geniesser ideal als Geschenkidee. Auf Wunsch vegan.<\/p><p><a href=\"\/products\/schoggi-abo\" title=\"Schoggi Abo\">Bestellen<\/a><\/p>",
+            "link_label": "",
+            "link": ""
           }
         },
         "16323409663de6630b-2": {
@@ -110,7 +116,9 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/IMG_20210917_174849.jpg",
             "title": "Geschenkboxen",
-            "text": "<p>Die feinsten Schokoladentafeln aus einer Region von uns kuratiert in einer eleganten Magnetbox.<\/p><p><a href=\"\/products\/bean-to-bar-box-schweizer-edition\" title=\"Bean to bar box - Schweizer Edition\">Bestellen<\/a><\/p>"
+            "text": "<p>Die feinsten Schokoladentafeln aus einer Region von uns kuratiert in einer eleganten Magnetbox.<\/p><p><a href=\"\/products\/bean-to-bar-box-schweizer-edition\" title=\"Bean to bar box - Schweizer Edition\">Bestellen<\/a><\/p>",
+            "link_label": "",
+            "link": ""
           }
         }
       },
@@ -127,7 +135,9 @@
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "swipe_on_mobile": false
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "16362294812b767bed": {
@@ -137,13 +147,15 @@
         "16362294812b767bed-0": {
           "type": "heading",
           "settings": {
-            "heading": "Neu! Garçoa Finca Ana Maria aus Guatemala"
+            "heading": "Neu! Garçoa Finca Ana Maria aus Guatemala",
+            "heading_size": "h1"
           }
         },
         "16362294812b767bed-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Probiere Kakao aus Guatemala von der Finca Ana Maria. Wir sind begeistert von dem frischen Geschmack nach Beeren und einem Hauch von Zitrus.<\/p>"
+            "text": "<p>Probiere Kakao aus Guatemala von der Finca Ana Maria. Wir sind begeistert von dem frischen Geschmack nach Beeren und einem Hauch von Zitrus.<\/p>",
+            "text_style": "body"
           }
         },
         "16362294812b767bed-2": {
@@ -162,8 +174,15 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Garcoa_Ana_Maria_weiss.png",
         "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
         "color_scheme": "background-1",
-        "layout": "image_first"
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "featured_products": {
@@ -177,10 +196,10 @@
         "swipe_on_mobile": true,
         "image_ratio": "adapt",
         "show_secondary_image": false,
-        "add_image_padding": false,
-        "show_image_outline": false,
         "show_vendor": true,
-        "show_rating": false
+        "show_rating": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "1632342325414527c5": {
@@ -196,7 +215,8 @@
         "1632342325414527c5-1": {
           "type": "text",
           "settings": {
-            "text": "Wir versenden die Schokolade ab 60 CHF gratis."
+            "text": "Wir versenden die Schokolade ab 60 CHF gratis.",
+            "text_style": "body"
           }
         },
         "1632342325414527c5-2": {
@@ -219,13 +239,15 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Dark_bean_to_bar_chocolate_bars.jpg",
         "avoid_lazy_loading_image": false,
+        "image_overlay_opacity": 0,
         "avoid_lazy_loading_image_2": false,
         "image_height": "medium",
         "adapt_height_first_image": false,
-        "desktop_text_box_position": "center",
+        "desktop_content_position": "middle-center",
         "show_text_box": true,
-        "image_overlay_opacity": 0,
+        "desktop_content_alignment": "center",
         "color_scheme": "accent-2",
+        "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
@@ -267,10 +289,10 @@
       "settings": {
         "title": "Die Schönsten Schokoladentafeln der Welt",
         "image_ratio": "square",
-        "color_scheme": "background-1",
         "swipe_on_mobile": true,
-        "image_padding": false,
-        "show_view_all": false
+        "show_view_all": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "1634375900421b4e15": {
@@ -280,25 +302,19 @@
         "1634375900421b4e15-2": {
           "type": "collection",
           "settings": {
-            "collection": "cielo-dentro-chocolate",
-            "image_padding": false,
-            "color_scheme": "background-1"
+            "collection": "cielo-dentro-chocolate"
           }
         },
         "e4ea5991-5afd-4fa6-8afb-5f0ec4d2b469": {
           "type": "collection",
           "settings": {
-            "collection": "orfeve-chocolate",
-            "image_padding": false,
-            "color_scheme": "background-1"
+            "collection": "orfeve-chocolate"
           }
         },
         "cacc6737-fcb9-4151-949e-17a5f27bb9b3": {
           "type": "collection",
           "settings": {
-            "collection": "kuerzi-kakao",
-            "image_padding": false,
-            "color_scheme": "background-1"
+            "collection": "kuerzi-kakao"
           }
         }
       },
@@ -310,7 +326,9 @@
       "settings": {
         "heading": "Die Schönsten Schokoladentafeln der Welt",
         "desktop_layout": "left",
-        "mobile_layout": "collage"
+        "mobile_layout": "collage",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "1634376287b4fa9014": {
@@ -350,10 +368,10 @@
       "settings": {
         "title": "Wähle deinen Kakao Ursprung",
         "image_ratio": "square",
-        "color_scheme": "background-1",
         "swipe_on_mobile": true,
-        "image_padding": false,
-        "show_view_all": false
+        "show_view_all": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "16343829621e860ae7": {
@@ -393,10 +411,10 @@
       "settings": {
         "title": "Wähle dein Kakaogehalt",
         "image_ratio": "square",
-        "color_scheme": "background-1",
         "swipe_on_mobile": true,
-        "image_padding": false,
-        "show_view_all": false
+        "show_view_all": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "1634385274637d9fb6": {
@@ -436,10 +454,10 @@
       "settings": {
         "title": "Wähle deine Lieblingsgeschmacksnoten",
         "image_ratio": "square",
-        "color_scheme": "background-1",
         "swipe_on_mobile": true,
-        "image_padding": false,
-        "show_view_all": false
+        "show_view_all": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "16343854376549fa13": {
@@ -457,7 +475,9 @@
       ],
       "settings": {
         "color_scheme": "background-1",
-        "full_width": true
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "1634385439b08f2fc8": {
@@ -466,13 +486,15 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_4605.jpg",
         "avoid_lazy_loading_image": false,
+        "image_overlay_opacity": 0,
         "avoid_lazy_loading_image_2": false,
         "image_height": "small",
         "adapt_height_first_image": false,
-        "desktop_text_box_position": "center",
+        "desktop_content_position": "middle-center",
         "show_text_box": false,
-        "image_overlay_opacity": 0,
+        "desktop_content_alignment": "center",
         "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
@@ -490,7 +512,8 @@
         "1634385501449ca5a3-1": {
           "type": "text",
           "settings": {
-            "text": "aus der Schweiz und der Welt"
+            "text": "aus der Schweiz und der Welt",
+            "text_style": "body"
           }
         },
         "1634385501449ca5a3-2": {
@@ -513,13 +536,15 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/The_small_batch_project_klein_842d08c2-fc35-4303-8f2b-434a5cc336d5.JPG",
         "avoid_lazy_loading_image": false,
+        "image_overlay_opacity": 0,
         "avoid_lazy_loading_image_2": false,
         "image_height": "small",
         "adapt_height_first_image": false,
-        "desktop_text_box_position": "center",
+        "desktop_content_position": "middle-center",
         "show_text_box": true,
-        "image_overlay_opacity": 0,
+        "desktop_content_alignment": "center",
         "color_scheme": "accent-2",
+        "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": true
       }
@@ -556,7 +581,9 @@
       ],
       "settings": {
         "color_scheme": "background-1",
-        "full_width": true
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "16343859739bc58adb": {
@@ -587,7 +614,9 @@
       ],
       "settings": {
         "color_scheme": "background-1",
-        "full_width": true
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     }
   },
