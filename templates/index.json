@@ -140,57 +140,11 @@
         "padding_bottom": 36
       }
     },
-    "16362294812b767bed": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "16362294812b767bed-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Neu! Garçoa Finca Ana Maria aus Guatemala",
-            "heading_size": "h1"
-          }
-        },
-        "16362294812b767bed-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Probiere Kakao aus Guatemala von der Finca Ana Maria. Wir sind begeistert von dem frischen Geschmack nach Beeren und einem Hauch von Zitrus.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "16362294812b767bed-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Erfahre mehr",
-            "button_link": "shopify:\/\/products\/garcoa-ana-maria-guatemala-73"
-          }
-        }
-      },
-      "block_order": [
-        "16362294812b767bed-0",
-        "16362294812b767bed-1",
-        "16362294812b767bed-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Garcoa_Ana_Maria_weiss.png",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "featured_products": {
       "type": "featured-collection",
-      "disabled": true,
       "settings": {
-        "title": "Bean to Bar Schokolade für Weihnachten",
-        "collection": "frontpage",
+        "title": "Neu im Sortiment: Latitude Trade",
+        "collection": "latitude-trade-company",
         "products_to_show": 4,
         "show_view_all": true,
         "swipe_on_mobile": true,
@@ -624,7 +578,6 @@
     "image_banner",
     "rich_text",
     "16323409663de6630b",
-    "16362294812b767bed",
     "featured_products",
     "1632342325414527c5",
     "163437571994d93585",
