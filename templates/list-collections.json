@@ -12,6 +12,12 @@
     "16343745846e5e6627": {
       "type": "collection-list",
       "blocks": {
+        "3f890ce4-7d69-4b0f-8f3d-991a0ff5bcc1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "orfeve-chocolate"
+          }
+        },
         "16343745846e5e6627-0": {
           "type": "featured_collection",
           "settings": {
@@ -24,28 +30,22 @@
             "collection": "garcoa"
           }
         },
-        "16343745846e5e6627-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "gebruder-grimm"
-          }
-        },
         "75f5b73a-c5c4-441b-a1aa-a8c05c2cebb4": {
           "type": "featured_collection",
           "settings": {
             "collection": "kuerzi-kakao"
           }
         },
+        "16343745846e5e6627-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "gebruder-grimm"
+          }
+        },
         "b9b7f877-35c4-4302-b7b7-c11ea8a6e81f": {
           "type": "featured_collection",
           "settings": {
             "collection": "la-flor"
-          }
-        },
-        "3f890ce4-7d69-4b0f-8f3d-991a0ff5bcc1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "orfeve-chocolate"
           }
         },
         "80b629df-b080-4363-95f4-7a50926fd30a": {
@@ -56,12 +56,12 @@
         }
       },
       "block_order": [
+        "3f890ce4-7d69-4b0f-8f3d-991a0ff5bcc1",
         "16343745846e5e6627-0",
         "16343745846e5e6627-1",
-        "16343745846e5e6627-2",
         "75f5b73a-c5c4-441b-a1aa-a8c05c2cebb4",
+        "16343745846e5e6627-2",
         "b9b7f877-35c4-4302-b7b7-c11ea8a6e81f",
-        "3f890ce4-7d69-4b0f-8f3d-991a0ff5bcc1",
         "80b629df-b080-4363-95f4-7a50926fd30a"
       ],
       "settings": {
