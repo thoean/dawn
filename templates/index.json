@@ -140,22 +140,6 @@
         "padding_bottom": 36
       }
     },
-    "featured_products": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Neu: Latitude Trade aus Uganda",
-        "collection": "latitude-trade-company",
-        "products_to_show": 4,
-        "show_view_all": true,
-        "swipe_on_mobile": true,
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "1632342325414527c5": {
       "type": "image-banner",
       "blocks": {
@@ -206,9 +190,31 @@
         "show_text_below": true
       }
     },
+    "featured_products": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Neu: Latitude Trade aus Uganda",
+        "collection": "latitude-trade-company",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": true,
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "163437571994d93585": {
       "type": "collection-list",
       "blocks": {
+        "9d46f318-6198-4dc4-8404-88aabbf87bbb": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "garcoa"
+          }
+        },
         "163437571994d93585-0": {
           "type": "featured_collection",
           "settings": {
@@ -221,24 +227,18 @@
             "collection": "orfeve-chocolate"
           }
         },
-        "163437571994d93585-2": {
+        "52b36bfb-5472-4232-afb8-e676ed3bef89": {
           "type": "featured_collection",
           "settings": {
-            "collection": "karuna-chocolate"
-          }
-        },
-        "9d46f318-6198-4dc4-8404-88aabbf87bbb": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "garcoa"
+            "collection": "rozsavolgyi-csokolade"
           }
         }
       },
       "block_order": [
+        "9d46f318-6198-4dc4-8404-88aabbf87bbb",
         "163437571994d93585-0",
         "163437571994d93585-1",
-        "163437571994d93585-2",
-        "9d46f318-6198-4dc4-8404-88aabbf87bbb"
+        "52b36bfb-5472-4232-afb8-e676ed3bef89"
       ],
       "settings": {
         "title": "Die Schönsten Schokoladentafeln der Welt",
@@ -578,8 +578,8 @@
     "image_banner",
     "rich_text",
     "16323409663de6630b",
-    "featured_products",
     "1632342325414527c5",
+    "featured_products",
     "163437571994d93585",
     "1634375900421b4e15",
     "1634376287b4fa9014",
