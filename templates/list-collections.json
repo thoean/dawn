@@ -6,9 +6,7 @@
       "settings": {
         "title": "Collections",
         "sort": "alphabetical",
-        "image_ratio": "square",
-        "color_scheme": "background-1",
-        "image_padding": false
+        "image_ratio": "square"
       }
     },
     "16343745846e5e6627": {
@@ -69,10 +67,10 @@
       "settings": {
         "title": "Schweizer Bean to Bar Schokoladen Hersteller",
         "image_ratio": "square",
-        "color_scheme": "background-1",
         "swipe_on_mobile": false,
-        "image_padding": true,
-        "show_view_all": false
+        "show_view_all": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "163437377431f866c3": {
@@ -149,10 +147,10 @@
       "settings": {
         "title": "Europäische Schokoladen Hersteller",
         "image_ratio": "square",
-        "color_scheme": "background-1",
         "swipe_on_mobile": false,
-        "image_padding": true,
-        "show_view_all": false
+        "show_view_all": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "1634374557a84c0a0d": {
@@ -220,6 +218,12 @@
           "settings": {
             "collection": ""
           }
+        },
+        "7a81b90f-4651-4d17-8a37-7c2cd1d1cc46": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "latitude-trade-company"
+          }
         }
       },
       "block_order": [
@@ -232,15 +236,16 @@
         "1634374557a84c0a0d-2",
         "969bc3f9-5c4f-42aa-93f7-dfe7d8051323",
         "ed705893-5022-4ac0-8793-a4963d67c0ee",
-        "f0739852-e946-468c-8703-e34e62c4ec44"
+        "f0739852-e946-468c-8703-e34e62c4ec44",
+        "7a81b90f-4651-4d17-8a37-7c2cd1d1cc46"
       ],
       "settings": {
         "title": "Bean to Bar Schokolade aus aller Welt",
         "image_ratio": "square",
-        "color_scheme": "background-1",
         "swipe_on_mobile": false,
-        "image_padding": true,
-        "show_view_all": false
+        "show_view_all": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
