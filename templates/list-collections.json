@@ -53,6 +53,12 @@
           "settings": {
             "collection": "taucherli"
           }
+        },
+        "b3d4872e-1c73-4088-9c2e-3a93ca8bcc01": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "coffola"
+          }
         }
       },
       "block_order": [
@@ -62,7 +68,8 @@
         "75f5b73a-c5c4-441b-a1aa-a8c05c2cebb4",
         "16343745846e5e6627-2",
         "b9b7f877-35c4-4302-b7b7-c11ea8a6e81f",
-        "80b629df-b080-4363-95f4-7a50926fd30a"
+        "80b629df-b080-4363-95f4-7a50926fd30a",
+        "b3d4872e-1c73-4088-9c2e-3a93ca8bcc01"
       ],
       "settings": {
         "title": "Schweizer Bean to Bar Schokoladen Hersteller",
