@@ -452,10 +452,10 @@
         "1634385501449ca5a3-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/The_small_batch_project_klein_842d08c2-fc35-4303-8f2b-434a5cc336d5.JPG",
-        "avoid_lazy_loading_image": false,
+        "image": "shopify:\/\/shop_images\/The_small_batch_project_setting_the_Table_Karuna.jpg",
+        "avoid_lazy_loading_image": true,
         "image_overlay_opacity": 0,
-        "avoid_lazy_loading_image_2": false,
+        "avoid_lazy_loading_image_2": true,
         "image_height": "small",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
@@ -531,7 +531,7 @@
         "16343859739bc58adb-2"
       ],
       "settings": {
-        "color_scheme": "background-1",
+        "color_scheme": "inverse",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
