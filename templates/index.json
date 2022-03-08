@@ -218,19 +218,19 @@
         "163437571994d93585-0": {
           "type": "featured_collection",
           "settings": {
-            "collection": "cielo-dentro-chocolate"
+            "collection": "coffola"
           }
         },
         "163437571994d93585-1": {
           "type": "featured_collection",
           "settings": {
-            "collection": "kuerzi-kakao"
+            "collection": "luisa-abram"
           }
         },
         "52b36bfb-5472-4232-afb8-e676ed3bef89": {
           "type": "featured_collection",
           "settings": {
-            "collection": "rozsavolgyi-csokolade"
+            "collection": "krak-chocolade"
           }
         }
       },
@@ -245,42 +245,6 @@
         "image_ratio": "square",
         "swipe_on_mobile": true,
         "show_view_all": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "1634375900421b4e15": {
-      "type": "collage",
-      "disabled": true,
-      "blocks": {
-        "1634375900421b4e15-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "cielo-dentro-chocolate"
-          }
-        },
-        "e4ea5991-5afd-4fa6-8afb-5f0ec4d2b469": {
-          "type": "collection",
-          "settings": {
-            "collection": "orfeve-chocolate"
-          }
-        },
-        "cacc6737-fcb9-4151-949e-17a5f27bb9b3": {
-          "type": "collection",
-          "settings": {
-            "collection": "kuerzi-kakao"
-          }
-        }
-      },
-      "block_order": [
-        "1634375900421b4e15-2",
-        "e4ea5991-5afd-4fa6-8afb-5f0ec4d2b469",
-        "cacc6737-fcb9-4151-949e-17a5f27bb9b3"
-      ],
-      "settings": {
-        "heading": "Die Schönsten Schokoladentafeln der Welt",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -581,7 +545,6 @@
     "1632342325414527c5",
     "featured_products",
     "163437571994d93585",
-    "1634375900421b4e15",
     "1634376287b4fa9014",
     "16343829621e860ae7",
     "1634385274637d9fb6",
