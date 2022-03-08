@@ -22,7 +22,7 @@
           "settings": {
             "button_label_1": "Zu den Produkten",
             "button_link_1": "shopify:\/\/collections\/all",
-            "button_style_secondary_1": false,
+            "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
@@ -145,20 +145,22 @@
       "blocks": {
         "1632342325414527c5-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
-            "heading": "Gratis Versand",
+            "heading": "Gratis Versand ab 60 CHF",
             "heading_size": "medium"
           }
         },
         "1632342325414527c5-1": {
           "type": "text",
           "settings": {
-            "text": "Wir versenden die Schokolade ab 60 CHF gratis.",
+            "text": "Gratis Versand ab 60 CHF",
             "text_style": "body"
           }
         },
         "1632342325414527c5-2": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "button_label_1": "Zu den Versanddetails",
             "button_link_1": "shopify:\/\/policies\/shipping-policy",
@@ -175,11 +177,11 @@
         "1632342325414527c5-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Dark_bean_to_bar_chocolate_bars.jpg",
+        "image": "shopify:\/\/shop_images\/The_small_batch_project_presents_Luisa_Abram.jpg",
         "avoid_lazy_loading_image": false,
         "image_overlay_opacity": 0,
         "avoid_lazy_loading_image_2": false,
-        "image_height": "medium",
+        "image_height": "small",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
         "show_text_box": true,
