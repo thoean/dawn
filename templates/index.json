@@ -192,76 +192,6 @@
         "show_text_below": true
       }
     },
-    "1647246871c5512b97": {
-      "type": "featured-product",
-      "blocks": {
-        "16472468712ef3fc45-0": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "16472468712ef3fc45-1": {
-          "type": "title",
-          "settings": {
-          }
-        },
-        "16472468712ef3fc45-2": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
-            "text_style": "subtitle"
-          }
-        },
-        "16472468712ef3fc45-3": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "16472468712ef3fc45-4": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "16472468712ef3fc45-5": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
-        "16472468712ef3fc45-6": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true
-          }
-        },
-        "16472468712ef3fc45-7": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        }
-      },
-      "block_order": [
-        "16472468712ef3fc45-0",
-        "16472468712ef3fc45-1",
-        "16472468712ef3fc45-2",
-        "16472468712ef3fc45-3",
-        "16472468712ef3fc45-4",
-        "16472468712ef3fc45-5",
-        "16472468712ef3fc45-6",
-        "16472468712ef3fc45-7"
-      ],
-      "settings": {
-        "product": "event",
-        "secondary_background": true,
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 76,
-        "padding_bottom": 68
-      }
-    },
     "featured_products": {
       "type": "featured-collection",
       "settings": {
@@ -615,7 +545,6 @@
     "rich_text",
     "16323409663de6630b",
     "1632342325414527c5",
-    "1647246871c5512b97",
     "featured_products",
     "163437571994d93585",
     "1634376287b4fa9014",
