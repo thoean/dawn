@@ -88,6 +88,22 @@
         "padding_bottom": 52
       }
     },
+    "1649233831b0630a29": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "10. April: Komm an unser Schoggifestival!",
+        "collection": "schoggifestival-ehrundredlich",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "16323409663de6630b": {
       "type": "multicolumn",
       "blocks": {
@@ -538,27 +554,12 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
-    },
-    "1649233831b0630a29": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Komm an unser Schoggifestival!",
-        "collection": "schoggifestival-ehrundredlich",
-        "products_to_show": 4,
-        "show_view_all": true,
-        "swipe_on_mobile": false,
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
     "image_banner",
     "rich_text",
+    "1649233831b0630a29",
     "16323409663de6630b",
     "1632342325414527c5",
     "featured_products",
@@ -570,7 +571,6 @@
     "1634385439b08f2fc8",
     "1634385501449ca5a3",
     "163438589674333baf",
-    "16343859739bc58adb",
-    "1649233831b0630a29"
+    "16343859739bc58adb"
   ]
 }
