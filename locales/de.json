@@ -230,7 +230,7 @@
       "subtotal": "Zwischensumme",
       "new_subtotal": "Neue Zwischensumme",
       "note": "Bemerkungen zur Bestellung",
-      "checkout": "Auschecken",
+      "checkout": "Bezahlen",
       "empty": "Dein Warenkorb ist leer",
       "cart_error": "Beim Aktualisieren deines Warenkorbs ist ein Fehler aufgetreten. Bitte versuche es erneut.",
       "cart_quantity_error_html": "Du kannst deinem Warenkorb nur {{ quantity }} Stück dieses Artikels hinzufügen.",
@@ -410,6 +410,15 @@
       "expired": "Abgelaufen",
       "copy_code_success": "Code erfolgreich kopiert",
       "print_gift_card": "Drucken"
+    }
+  },
+  "shopify": {
+    "checkout": {
+      "general": {
+        "errors": {
+          "session_identifier_not_unique_error": "Mit deiner Bestellung ist etwas schiefgelaufen, bitte versuche erneut zu zahlen."
+        }
+      }
     }
   }
 }
