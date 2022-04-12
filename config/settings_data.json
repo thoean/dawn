@@ -40,9 +40,9 @@
             "type": "announcement",
             "disabled": true,
             "settings": {
-              "text": "Bestellungen werden erst nach Weihnachten verschickt. Für Weihnachten kann noch das Schoggi-Abo bestellt werden.",
+              "text": "Wir sind in den Ferien. Alle Bestellungen werden erst am 27. Apil verschickt",
               "color_scheme": "accent-2",
-              "link": "shopify:\/\/products\/schoggi-abo"
+              "link": ""
             }
           }
         },
