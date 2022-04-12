@@ -38,7 +38,6 @@
         "blocks": {
           "announcement-bar-0": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
               "text": "Wir sind in den Ferien. Alle Bestellungen werden erst am 27. Apil verschickt",
               "color_scheme": "accent-2",
