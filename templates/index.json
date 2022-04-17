@@ -90,6 +90,7 @@
     },
     "1649233831b0630a29": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "10. April: Komm an unser Schoggifestival!",
         "collection": "schoggifestival-ehrundredlich",
