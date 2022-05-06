@@ -211,6 +211,7 @@
     },
     "featured_products": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Kauf eine Ukrainische Schokoladentafel und unterstütze einen Schokoladenmacher vor Ort",
         "collection": "bean-to-bar-schokolade-aus-der-ukraine",
