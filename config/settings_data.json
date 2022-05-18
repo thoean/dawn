@@ -38,9 +38,8 @@
         "blocks": {
           "announcement-bar-0": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
-              "text": "Wir sind in den Ferien. Alle Bestellungen werden erst am 27. Apil verschickt",
+              "text": "Wir verschicken ihre Bestellung sobald Temperaturen wieder unter 26°C sind",
               "color_scheme": "accent-2",
               "link": ""
             }
