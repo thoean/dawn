@@ -13,39 +13,6 @@
         "padding_bottom": 36
       }
     },
-    "1654847779eff91f8e": {
-      "type": "newsletter",
-      "blocks": {
-        "16548477785401ae06-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Melde Dich für unseren Newsletter an"
-          }
-        },
-        "16548477785401ae06-1": {
-          "type": "paragraph",
-          "settings": {
-            "text": "<p>Kein Spam. Einfach 3-4 x im Jahr das Allerwichtigste<\/p>"
-          }
-        },
-        "16548477785401ae06-2": {
-          "type": "email_form",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "16548477785401ae06-0",
-        "16548477785401ae06-1",
-        "16548477785401ae06-2"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "165484799772cc8059": {
       "type": "image-with-text",
       "blocks": {
@@ -89,12 +56,45 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "1654847779eff91f8e": {
+      "type": "newsletter",
+      "blocks": {
+        "16548477785401ae06-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Melde Dich für unseren Newsletter an"
+          }
+        },
+        "16548477785401ae06-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Kein Spam. Einfach 3-4 x im Jahr das Allerwichtigste<\/p>"
+          }
+        },
+        "16548477785401ae06-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "16548477785401ae06-0",
+        "16548477785401ae06-1",
+        "16548477785401ae06-2"
+      ],
+      "settings": {
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
     "form",
-    "1654847779eff91f8e",
-    "165484799772cc8059"
+    "165484799772cc8059",
+    "1654847779eff91f8e"
   ]
 }
