@@ -1,17 +1,100 @@
 {
   "sections": {
     "main": {
-      "type": "main-page"
+      "type": "main-page",
+      "settings": {
+      }
     },
     "form": {
       "type": "contact-form",
       "settings": {
-        "heading": ""
+        "heading": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1654847779eff91f8e": {
+      "type": "newsletter",
+      "blocks": {
+        "16548477785401ae06-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our emails"
+          }
+        },
+        "16548477785401ae06-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "16548477785401ae06-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "16548477785401ae06-0",
+        "16548477785401ae06-1",
+        "16548477785401ae06-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "165484799772cc8059": {
+      "type": "image-with-text",
+      "blocks": {
+        "1654847997b0772f07-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "The small batch project",
+            "heading_size": "h1"
+          }
+        },
+        "1654847997b0772f07-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Inh. Andrea Thurner<br\/>Risiweg 9<br\/>8706 Meilen<br\/>Schweiz<br\/><a href=\"mailto:hello@thesmallbatchproject.ch\">hello@thesmallbatchproject.ch<\/a> <\/p><p>+41 76 200 49 25<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1654847997b0772f07-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Weiter Einkaufen",
+            "button_link": "shopify:\/\/collections"
+          }
+        }
+      },
+      "block_order": [
+        "1654847997b0772f07-0",
+        "1654847997b0772f07-1",
+        "1654847997b0772f07-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_20220528_173608.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
   "order": [
     "main",
-    "form"
+    "form",
+    "1654847779eff91f8e",
+    "165484799772cc8059"
   ]
 }
