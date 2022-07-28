@@ -40,7 +40,7 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "Wir verschicken ihre Bestellung bei Temperaturen unter 25°C",
+              "text": "Wir sind in bis 9. August in den Ferien. Alles bestellte wird danach verschickt",
               "color_scheme": "accent-2",
               "link": ""
             }
