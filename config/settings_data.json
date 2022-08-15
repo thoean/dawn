@@ -40,7 +40,7 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "Wir sind in bis 15. August in den Ferien. Bestellungen werden danach verschickt",
+              "text": "Es ist heiss! Wir verscicken Deine Bestellung wieder bei Temperaturen unter 25 °C",
               "color_scheme": "accent-2",
               "link": ""
             }
