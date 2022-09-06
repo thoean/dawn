@@ -18,28 +18,10 @@
             "collection": "orfeve-chocolate"
           }
         },
-        "16343745846e5e6627-0": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "cacao-betulia-schweizer-hacienda-in-kolumbien-produziert-schokolade"
-          }
-        },
         "16343745846e5e6627-1": {
           "type": "featured_collection",
           "settings": {
             "collection": "garcoa"
-          }
-        },
-        "75f5b73a-c5c4-441b-a1aa-a8c05c2cebb4": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "kuerzi-kakao"
-          }
-        },
-        "16343745846e5e6627-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "gebruder-grimm"
           }
         },
         "b9b7f877-35c4-4302-b7b7-c11ea8a6e81f": {
@@ -63,10 +45,7 @@
       },
       "block_order": [
         "3f890ce4-7d69-4b0f-8f3d-991a0ff5bcc1",
-        "16343745846e5e6627-0",
         "16343745846e5e6627-1",
-        "75f5b73a-c5c4-441b-a1aa-a8c05c2cebb4",
-        "16343745846e5e6627-2",
         "b9b7f877-35c4-4302-b7b7-c11ea8a6e81f",
         "80b629df-b080-4363-95f4-7a50926fd30a",
         "b3d4872e-1c73-4088-9c2e-3a93ca8bcc01"
@@ -108,12 +87,6 @@
             "collection": "akessons"
           }
         },
-        "51b6013d-e936-4530-8f5e-42de6a060f34": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "svenska-kakaobolaget"
-          }
-        },
         "163437377431f866c3-2": {
           "type": "featured_collection",
           "disabled": true,
@@ -146,7 +119,6 @@
         "1d238451-8b4b-4242-8e1b-34fc46860023",
         "e9420784-5b26-4805-b28e-2e0b642789b7",
         "163437377431f866c3-0",
-        "51b6013d-e936-4530-8f5e-42de6a060f34",
         "163437377431f866c3-2",
         "7a34722a-ef27-4c00-bdb4-f6f03c2b4c32",
         "5630b79a-86f3-4e62-8b50-b1fbf8d3001d",
@@ -208,12 +180,6 @@
             "collection": "luisa-abram"
           }
         },
-        "1634374557a84c0a0d-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "marana-craft-chocolate"
-          }
-        },
         "969bc3f9-5c4f-42aa-93f7-dfe7d8051323": {
           "type": "featured_collection",
           "settings": {
@@ -235,7 +201,6 @@
         "070baff0-3d3c-471f-9d29-1d8e64838b8b",
         "7a81b90f-4651-4d17-8a37-7c2cd1d1cc46",
         "1634374557a84c0a0d-1",
-        "1634374557a84c0a0d-2",
         "969bc3f9-5c4f-42aa-93f7-dfe7d8051323",
         "ed705893-5022-4ac0-8793-a4963d67c0ee"
       ],
