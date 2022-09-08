@@ -50,44 +50,6 @@
         "show_text_below": false
       }
     },
-    "rich_text": {
-      "type": "rich-text",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Wir wissen, woher unser Kakao kommt",
-            "heading_size": "h1"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Wir suchen weltweit nach handwerklichen Schokoladenmanufakturen die in kleinen Chargen ursprungsspezifisch produzieren.<\/p>"
-          }
-        },
-        "button": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "text",
-        "button"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 64
-      }
-    },
     "1649233831b0630a29": {
       "type": "featured-collection",
       "disabled": true,
@@ -259,6 +221,44 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
+      }
+    },
+    "rich_text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Wir wissen, woher unser Kakao kommt",
+            "heading_size": "h1"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wir suchen weltweit nach handwerklichen Schokoladenmanufakturen die in kleinen Chargen ursprungsspezifisch produzieren.<\/p>"
+          }
+        },
+        "button": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text",
+        "button"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 64
       }
     },
     "featured_products": {
@@ -672,11 +672,11 @@
   },
   "order": [
     "image_banner",
-    "rich_text",
     "1649233831b0630a29",
     "16323409663de6630b",
     "166263242045b8a8f2",
     "1632342325414527c5",
+    "rich_text",
     "featured_products",
     "163437571994d93585",
     "16343829621e860ae7",
