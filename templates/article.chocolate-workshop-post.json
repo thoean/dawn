@@ -36,9 +36,18 @@
       ],
       "settings": {
       }
+    },
+    "1662625618714dee58": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Contact form",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "1662625618714dee58"
   ]
 }
