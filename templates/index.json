@@ -627,10 +627,10 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Industrial_Chocolate_event_The_small_batch_project_321ce034-f2d6-41a8-a1cd-649d0ea3f9ec.png",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "title": "Industrie, Gute und Spezialitäten Schokolade",
+            "text": "<p>Wie unterscheide ich Schokolade und wieso ist dies wichtig<\/p>",
+            "link_label": "Erfahre mehr",
+            "link": "shopify:\/\/blogs\/chocolate-workshops-1\/industrial-chocolate-good-chocolate-specialty-chocolate"
           }
         },
         "166263242010701f07-2": {
