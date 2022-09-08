@@ -16,14 +16,14 @@
         "16626225462aa81538-0": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h1"
+            "heading": "Team Event online buchen",
+            "heading_size": "h2"
           }
         },
         "16626225462aa81538-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Schreibt uns eure Details, zur Anzahl Teilnehmer, Datum, individuellen Wünschen und Budget. Mit ein paar Emails und einem Gespräch finden wir rasch die passende Option für eure private und persönliche Veranstaltung.<\/p>"
           }
         },
         "16626225462aa81538-2": {
@@ -50,7 +50,7 @@
     "16626225187c31b4fd": {
       "type": "contact-form",
       "settings": {
-        "heading": "Contact form",
+        "heading": "Schreib uns!",
         "padding_top": 36,
         "padding_bottom": 36
       }
