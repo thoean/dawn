@@ -650,12 +650,12 @@
         "166263242010701f07-2"
       ],
       "settings": {
-        "title": "Chocolate Workshops for Team Events",
+        "title": "Chocolate Workshops für Team Events",
         "image_width": "full",
         "image_ratio": "adapt",
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "Erfahre mehr",
+        "button_label": "Lerne unsere Serie kennen",
         "button_link": "shopify:\/\/blogs\/chocolate-workshops-1",
         "swipe_on_mobile": false,
         "padding_top": 36,
