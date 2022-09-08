@@ -2,6 +2,7 @@
   "current": {
     "colors_solid_button_labels": "#ffffff",
     "colors_accent_1": "#b4a291",
+    "gradient_accent_1": "radial-gradient(rgba(138, 117, 97, 0.87), rgba(255, 204, 75, 1) 100%)",
     "colors_accent_2": "#8a7561",
     "gradient_accent_2": "linear-gradient(90deg, rgba(227, 126, 226, 1) 4%, rgba(227, 126, 226, 1) 100%)",
     "colors_text": "#2b1010",
@@ -14,6 +15,7 @@
     "type_body_font": "assistant_n4",
     "body_scale": 100,
     "page_width": "1200",
+    "buttons_border_opacity": 50,
     "inputs_border_thickness": 3,
     "social_twitter_link": "https:\/\/twitter.com\/smallbatchproj",
     "social_facebook_link": "https:\/\/www.facebook.com\/thesmallbatchproject",
