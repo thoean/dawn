@@ -539,43 +539,6 @@
         "show_text_below": true
       }
     },
-    "163438589674333baf": {
-      "type": "rich-text",
-      "blocks": {
-        "163438589674333baf-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Wir verschicken in der Schweiz und nach Liechtenstein",
-            "heading_size": "h2"
-          }
-        },
-        "163438589674333baf-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Online Versand nur bei Temperaturen unter 25 °C<br\/>ab CHF 60 ist der Versand gratis<\/p>"
-          }
-        },
-        "163438589674333baf-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Versanddetails",
-            "button_link": "shopify:\/\/policies\/shipping-policy",
-            "button_style_secondary": true
-          }
-        }
-      },
-      "block_order": [
-        "163438589674333baf-0",
-        "163438589674333baf-1",
-        "163438589674333baf-2"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "16626295064e5d8c4c": {
       "type": "image-banner",
       "blocks": {
@@ -661,6 +624,87 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "163438589674333baf": {
+      "type": "rich-text",
+      "blocks": {
+        "163438589674333baf-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Wir verschicken in der Schweiz und nach Liechtenstein",
+            "heading_size": "h2"
+          }
+        },
+        "163438589674333baf-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Online Versand nur bei Temperaturen unter 25 °C<br\/>ab CHF 60 ist der Versand gratis<\/p>"
+          }
+        },
+        "163438589674333baf-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Versanddetails",
+            "button_link": "shopify:\/\/policies\/shipping-policy",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "163438589674333baf-0",
+        "163438589674333baf-1",
+        "163438589674333baf-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "1662633271b0aa2fac": {
+      "type": "image-with-text",
+      "blocks": {
+        "166263327116ecd2a4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Wir verschicken in der Schweiz und nach Liechtenstein",
+            "heading_size": "h2"
+          }
+        },
+        "166263327116ecd2a4-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Online Versand nur bei Temperaturen unter 25 °C<br\/>ab CHF 60 ist der Versand gratis<\/p>",
+            "text_style": "body"
+          }
+        },
+        "166263327116ecd2a4-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Versanddetails",
+            "button_link": "shopify:\/\/policies\/shipping-policy"
+          }
+        }
+      },
+      "block_order": [
+        "166263327116ecd2a4-0",
+        "166263327116ecd2a4-1",
+        "166263327116ecd2a4-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/small_batch_2_114083ac-00de-4de6-aa60-33c422bd7f1f.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -678,8 +722,9 @@
     "16343854376549fa13",
     "1634385439b08f2fc8",
     "1634385501449ca5a3",
-    "163438589674333baf",
     "16626295064e5d8c4c",
-    "16343859739bc58adb"
+    "16343859739bc58adb",
+    "163438589674333baf",
+    "1662633271b0aa2fac"
   ]
 }
