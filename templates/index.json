@@ -157,6 +157,58 @@
         "padding_bottom": 36
       }
     },
+    "166263242045b8a8f2": {
+      "type": "multicolumn",
+      "blocks": {
+        "166263242010701f07-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Chocolate_Forest_Event_The_small_batch_project_f971f226-db4b-4c05-b579-196823d05409.png",
+            "title": "forest, rain-forest, chocolate forest",
+            "text": "<p>Ein Workshop über Schokoladenwälder und wie wir diese finden<\/p>",
+            "link_label": "Erfahre mehr",
+            "link": "shopify:\/\/blogs\/chocolate-workshops-1\/forest-rain-forest-chocolate-forest"
+          }
+        },
+        "166263242010701f07-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Industrial_Chocolate_event_The_small_batch_project_321ce034-f2d6-41a8-a1cd-649d0ea3f9ec.png",
+            "title": "Industrie vs Spezialitäten Schokolade",
+            "text": "<p>Wie unterscheide ich Schokolade und was hat dies mit unserer Umwelt zu tun<\/p>",
+            "link_label": "Erfahre mehr",
+            "link": "shopify:\/\/blogs\/chocolate-workshops-1\/industrial-chocolate-good-chocolate-specialty-chocolate"
+          }
+        },
+        "166263242010701f07-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Chocolate_cultures_history_by_the_small_batch_project_d7c02980-2df9-4c99-a729-fad1aec3c031.png",
+            "title": "Schokoladenkultur und Geschichte",
+            "text": "<p>Wir blicken über unseren eigenen Tellerrand und lernen die Welt von einer anderen Seite kennen<\/p>",
+            "link_label": "Erfahre mehr",
+            "link": "shopify:\/\/blogs\/chocolate-workshops-1\/industrial-chocolate-good-chocolate-specialty-chocolate"
+          }
+        }
+      },
+      "block_order": [
+        "166263242010701f07-0",
+        "166263242010701f07-1",
+        "166263242010701f07-2"
+      ],
+      "settings": {
+        "title": "Chocolate Workshops für Team Events",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Lerne unsere Workshops kennen",
+        "button_link": "shopify:\/\/blogs\/chocolate-workshops-1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "1632342325414527c5": {
       "type": "image-banner",
       "blocks": {
@@ -609,58 +661,6 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
-    },
-    "166263242045b8a8f2": {
-      "type": "multicolumn",
-      "blocks": {
-        "166263242010701f07-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Chocolate_Forest_Event_The_small_batch_project_f971f226-db4b-4c05-b579-196823d05409.png",
-            "title": "forest, rain-forest, chocolate forest",
-            "text": "<p>Ein Workshop über Schokoladenwälder und wie wir diese finden<\/p>",
-            "link_label": "Erfahre mehr",
-            "link": "shopify:\/\/blogs\/chocolate-workshops-1\/forest-rain-forest-chocolate-forest"
-          }
-        },
-        "166263242010701f07-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Industrial_Chocolate_event_The_small_batch_project_321ce034-f2d6-41a8-a1cd-649d0ea3f9ec.png",
-            "title": "Industrie vs Spezialitäten Schokolade",
-            "text": "<p>Wie unterscheide ich Schokolade und was hat dies mit unserer Umwelt zu tun<\/p>",
-            "link_label": "Erfahre mehr",
-            "link": "shopify:\/\/blogs\/chocolate-workshops-1\/industrial-chocolate-good-chocolate-specialty-chocolate"
-          }
-        },
-        "166263242010701f07-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Chocolate_cultures_history_by_the_small_batch_project_d7c02980-2df9-4c99-a729-fad1aec3c031.png",
-            "title": "Schokoladenkultur und Geschichte",
-            "text": "<p>Wir blicken über unseren eigenen Tellerrand und lernen die Welt von einer anderen Seite kennen<\/p>",
-            "link_label": "Erfahre mehr",
-            "link": "shopify:\/\/blogs\/chocolate-workshops-1\/industrial-chocolate-good-chocolate-specialty-chocolate"
-          }
-        }
-      },
-      "block_order": [
-        "166263242010701f07-0",
-        "166263242010701f07-1",
-        "166263242010701f07-2"
-      ],
-      "settings": {
-        "title": "Chocolate Workshops für Team Events",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Lerne unsere Serie kennen",
-        "button_link": "shopify:\/\/blogs\/chocolate-workshops-1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -668,6 +668,7 @@
     "rich_text",
     "1649233831b0630a29",
     "16323409663de6630b",
+    "166263242045b8a8f2",
     "1632342325414527c5",
     "featured_products",
     "163437571994d93585",
@@ -679,7 +680,6 @@
     "1634385501449ca5a3",
     "163438589674333baf",
     "16626295064e5d8c4c",
-    "16343859739bc58adb",
-    "166263242045b8a8f2"
+    "16343859739bc58adb"
   ]
 }
