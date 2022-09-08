@@ -625,57 +625,20 @@
         "padding_bottom": 52
       }
     },
-    "163438589674333baf": {
-      "type": "rich-text",
-      "blocks": {
-        "163438589674333baf-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Wir verschicken in der Schweiz und nach Liechtenstein",
-            "heading_size": "h2"
-          }
-        },
-        "163438589674333baf-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Online Versand nur bei Temperaturen unter 25 °C<br\/>ab CHF 60 ist der Versand gratis<\/p>"
-          }
-        },
-        "163438589674333baf-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Versanddetails",
-            "button_link": "shopify:\/\/policies\/shipping-policy",
-            "button_style_secondary": true
-          }
-        }
-      },
-      "block_order": [
-        "163438589674333baf-0",
-        "163438589674333baf-1",
-        "163438589674333baf-2"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "1662633271b0aa2fac": {
       "type": "image-with-text",
       "blocks": {
         "166263327116ecd2a4-0": {
           "type": "heading",
           "settings": {
-            "heading": "Wir verschicken in der Schweiz und nach Liechtenstein",
+            "heading": "Wir verschicken nur bei Temperaturen unter 25°C",
             "heading_size": "h2"
           }
         },
         "166263327116ecd2a4-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Online Versand nur bei Temperaturen unter 25 °C<br\/>ab CHF 60 ist der Versand gratis<\/p>",
+            "text": "<p>Online Versand<br\/>ab CHF 60 ist der Versand gratis<\/p>",
             "text_style": "body"
           }
         },
@@ -724,7 +687,6 @@
     "1634385501449ca5a3",
     "16626295064e5d8c4c",
     "16343859739bc58adb",
-    "163438589674333baf",
     "1662633271b0aa2fac"
   ]
 }
