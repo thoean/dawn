@@ -269,49 +269,6 @@
         "padding_bottom": 36
       }
     },
-    "1634376287b4fa9014": {
-      "type": "collection-list",
-      "blocks": {
-        "1634376287b4fa9014-0": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "mittelamerika"
-          }
-        },
-        "1634376287b4fa9014-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "sudamerika"
-          }
-        },
-        "1634376287b4fa9014-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "afrika"
-          }
-        },
-        "947107dc-6701-4882-a5e6-0c2ea8d8ef99": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "asien"
-          }
-        }
-      },
-      "block_order": [
-        "1634376287b4fa9014-0",
-        "1634376287b4fa9014-1",
-        "1634376287b4fa9014-2",
-        "947107dc-6701-4882-a5e6-0c2ea8d8ef99"
-      ],
-      "settings": {
-        "title": "Wähle deinen Kakao Ursprung",
-        "image_ratio": "square",
-        "swipe_on_mobile": true,
-        "show_view_all": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "16343829621e860ae7": {
       "type": "collection-list",
       "blocks": {
@@ -348,6 +305,49 @@
       ],
       "settings": {
         "title": "Wähle dein Kakaogehalt",
+        "image_ratio": "square",
+        "swipe_on_mobile": true,
+        "show_view_all": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1634376287b4fa9014": {
+      "type": "collection-list",
+      "blocks": {
+        "1634376287b4fa9014-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "mittelamerika"
+          }
+        },
+        "1634376287b4fa9014-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sudamerika"
+          }
+        },
+        "1634376287b4fa9014-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "afrika"
+          }
+        },
+        "947107dc-6701-4882-a5e6-0c2ea8d8ef99": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "asien"
+          }
+        }
+      },
+      "block_order": [
+        "1634376287b4fa9014-0",
+        "1634376287b4fa9014-1",
+        "1634376287b4fa9014-2",
+        "947107dc-6701-4882-a5e6-0c2ea8d8ef99"
+      ],
+      "settings": {
+        "title": "Wähle deinen Kakao Ursprung",
         "image_ratio": "square",
         "swipe_on_mobile": true,
         "show_view_all": false,
@@ -619,8 +619,8 @@
     "1632342325414527c5",
     "featured_products",
     "163437571994d93585",
-    "1634376287b4fa9014",
     "16343829621e860ae7",
+    "1634376287b4fa9014",
     "1634385274637d9fb6",
     "16343854376549fa13",
     "1634385439b08f2fc8",
