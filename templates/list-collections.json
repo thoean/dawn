@@ -30,6 +30,12 @@
             "collection": "la-flor"
           }
         },
+        "e2620d68-cd04-442f-877c-f6fd333c5d5c": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "kuerzi-kakao"
+          }
+        },
         "80b629df-b080-4363-95f4-7a50926fd30a": {
           "type": "featured_collection",
           "settings": {
@@ -47,6 +53,7 @@
         "3f890ce4-7d69-4b0f-8f3d-991a0ff5bcc1",
         "16343745846e5e6627-1",
         "b9b7f877-35c4-4302-b7b7-c11ea8a6e81f",
+        "e2620d68-cd04-442f-877c-f6fd333c5d5c",
         "80b629df-b080-4363-95f4-7a50926fd30a",
         "b3d4872e-1c73-4088-9c2e-3a93ca8bcc01"
       ],
