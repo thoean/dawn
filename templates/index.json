@@ -80,16 +80,6 @@
             "link": ""
           }
         },
-        "16323409663de6630b-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_20210202_150945.jpg",
-            "title": "Schoggi Abo",
-            "text": "<p>Wir suchen für dich die feinsten dunklen Schokoladentafeln aus. Für Geniesser ideal als Geschenkidee. Auf Wunsch vegan.<\/p><p><a href=\"\/products\/schoggi-abo\" title=\"Schoggi Abo\">Bestellen<\/a><\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "16323409663de6630b-2": {
           "type": "column",
           "settings": {
@@ -103,7 +93,6 @@
       },
       "block_order": [
         "16323409663de6630b-0",
-        "16323409663de6630b-1",
         "16323409663de6630b-2"
       ],
       "settings": {
