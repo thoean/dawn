@@ -79,21 +79,10 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "16323409663de6630b-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_20210917_174849.jpg",
-            "title": "Geschenkboxen",
-            "text": "<p>Die feinsten Schokoladentafeln aus einer Region von uns kuratiert in einer eleganten Magnetbox.<\/p><p><a href=\"\/products\/bean-to-bar-box-schweizer-edition\" title=\"Bean to bar box - Schweizer Edition\">Bestellen<\/a><\/p>",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
-        "16323409663de6630b-0",
-        "16323409663de6630b-2"
+        "16323409663de6630b-0"
       ],
       "settings": {
         "title": "Unser Angebot - Bean to Bar Schokolade",
