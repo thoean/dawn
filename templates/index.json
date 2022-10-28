@@ -79,10 +79,21 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "6d62de0d-0984-4e5b-9552-c576e0b2fe9b": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_20210917_174849.jpg",
+            "title": "Geschenkboxen",
+            "text": "<p>Schenk eine Überraschungsbox gefüllt mit feinster Schokolade aus aller Welt. Mit Anleitung wie Schokolade degustiert werden soll!<\/p>",
+            "link_label": "Zu der Box",
+            "link": "shopify:\/\/collections\/bean-to-bar-box"
+          }
         }
       },
       "block_order": [
-        "16323409663de6630b-0"
+        "16323409663de6630b-0",
+        "6d62de0d-0984-4e5b-9552-c576e0b2fe9b"
       ],
       "settings": {
         "title": "Unser Angebot - Bean to Bar Schokolade",
