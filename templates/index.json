@@ -300,6 +300,22 @@
         "padding_bottom": 36
       }
     },
+    "2ed45773-d6b0-411f-906f-eb11eaf9b85a": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Wilder Kakao aus Brasilien: Luisa Abram",
+        "collection": "luisa-abram",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "16343829621e860ae7": {
       "type": "collection-list",
       "blocks": {
@@ -647,22 +663,6 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "2ed45773-d6b0-411f-906f-eb11eaf9b85a": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Wilder Kakao aus Brasilien: Luisa Abram",
-        "collection": "luisa-abram",
-        "products_to_show": 4,
-        "show_view_all": true,
-        "swipe_on_mobile": false,
-        "image_ratio": "square",
-        "show_secondary_image": true,
-        "show_vendor": true,
-        "show_rating": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -674,6 +674,7 @@
     "rich_text",
     "featured_products",
     "163437571994d93585",
+    "2ed45773-d6b0-411f-906f-eb11eaf9b85a",
     "16343829621e860ae7",
     "1634376287b4fa9014",
     "1634385274637d9fb6",
@@ -682,7 +683,6 @@
     "1634385501449ca5a3",
     "16626295064e5d8c4c",
     "16343859739bc58adb",
-    "1662633271b0aa2fac",
-    "2ed45773-d6b0-411f-906f-eb11eaf9b85a"
+    "1662633271b0aa2fac"
   ]
 }
