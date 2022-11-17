@@ -18,12 +18,6 @@
             "collection": "orfeve-chocolate"
           }
         },
-        "16343745846e5e6627-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "taucherli"
-          }
-        },
         "b9b7f877-35c4-4302-b7b7-c11ea8a6e81f": {
           "type": "featured_collection",
           "settings": {
@@ -39,7 +33,6 @@
       },
       "block_order": [
         "3f890ce4-7d69-4b0f-8f3d-991a0ff5bcc1",
-        "16343745846e5e6627-1",
         "b9b7f877-35c4-4302-b7b7-c11ea8a6e81f",
         "b3d4872e-1c73-4088-9c2e-3a93ca8bcc01"
       ],
