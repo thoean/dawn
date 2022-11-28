@@ -16,23 +16,11 @@
             "text": "Bean to Bar Schokolade aus der Schweiz und aller Welt",
             "text_style": "body"
           }
-        },
-        "button": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Zu den Produkten",
-            "button_link_1": "shopify:\/\/collections\/all",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
         "heading",
-        "66a627ce-09bb-4e1a-a479-35aae304bc05",
-        "button"
+        "66a627ce-09bb-4e1a-a479-35aae304bc05"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Colombia_-_a_region_with_fine_flavored_cacao.jpg",
@@ -172,13 +160,6 @@
             "heading_size": "medium"
           }
         },
-        "1632342325414527c5-1": {
-          "type": "text",
-          "settings": {
-            "text": "Gratis Versand ab 60 CHF",
-            "text_style": "body"
-          }
-        },
         "1632342325414527c5-2": {
           "type": "buttons",
           "disabled": true,
@@ -194,7 +175,6 @@
       },
       "block_order": [
         "1632342325414527c5-0",
-        "1632342325414527c5-1",
         "1632342325414527c5-2"
       ],
       "settings": {
@@ -205,7 +185,7 @@
         "image_height": "small",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
-        "show_text_box": true,
+        "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "accent-2",
         "mobile_content_alignment": "center",
@@ -268,67 +248,9 @@
         "padding_bottom": 36
       }
     },
-    "163437571994d93585": {
-      "type": "collection-list",
-      "blocks": {
-        "9d46f318-6198-4dc4-8404-88aabbf87bbb": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "definite-chocolate"
-          }
-        },
-        "163437571994d93585-0": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "coffola"
-          }
-        },
-        "163437571994d93585-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "luisa-abram"
-          }
-        },
-        "52b36bfb-5472-4232-afb8-e676ed3bef89": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "krak-chocolade"
-          }
-        }
-      },
-      "block_order": [
-        "9d46f318-6198-4dc4-8404-88aabbf87bbb",
-        "163437571994d93585-0",
-        "163437571994d93585-1",
-        "52b36bfb-5472-4232-afb8-e676ed3bef89"
-      ],
-      "settings": {
-        "title": "Die Schönsten Schokoladentafeln der Welt",
-        "image_ratio": "square",
-        "swipe_on_mobile": true,
-        "show_view_all": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "2ed45773-d6b0-411f-906f-eb11eaf9b85a": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Wilder Kakao aus Brasilien: Luisa Abram",
-        "collection": "luisa-abram",
-        "products_to_show": 4,
-        "show_view_all": true,
-        "swipe_on_mobile": false,
-        "image_ratio": "square",
-        "show_secondary_image": true,
-        "show_vendor": true,
-        "show_rating": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "16343829621e860ae7": {
       "type": "collection-list",
+      "disabled": true,
       "blocks": {
         "16343829621e860ae7-0": {
           "type": "featured_collection",
@@ -415,6 +337,7 @@
     },
     "1634385274637d9fb6": {
       "type": "collection-list",
+      "disabled": true,
       "blocks": {
         "1634385274637d9fb6-0": {
           "type": "featured_collection",
@@ -511,23 +434,11 @@
             "text": "aus der Schweiz und der Welt",
             "text_style": "body"
           }
-        },
-        "1634385501449ca5a3-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Für dich zum entdecken",
-            "button_link_1": "shopify:\/\/collections",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
         "1634385501449ca5a3-0",
-        "1634385501449ca5a3-1",
-        "1634385501449ca5a3-2"
+        "1634385501449ca5a3-1"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/The_small_batch_project_chocolate_at_the_table.jpg",
@@ -630,50 +541,6 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
-    },
-    "1662633271b0aa2fac": {
-      "type": "image-with-text",
-      "blocks": {
-        "166263327116ecd2a4-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Wir verschicken nur bei Temperaturen unter 25°C",
-            "heading_size": "h2"
-          }
-        },
-        "166263327116ecd2a4-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Online Versand<br\/>ab CHF 60 ist der Versand gratis<\/p>",
-            "text_style": "body"
-          }
-        },
-        "166263327116ecd2a4-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Versanddetails",
-            "button_link": "shopify:\/\/policies\/shipping-policy"
-          }
-        }
-      },
-      "block_order": [
-        "166263327116ecd2a4-0",
-        "166263327116ecd2a4-1",
-        "166263327116ecd2a4-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/small_batch_2_114083ac-00de-4de6-aa60-33c422bd7f1f.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -684,8 +551,6 @@
     "1632342325414527c5",
     "rich_text",
     "featured_products",
-    "163437571994d93585",
-    "2ed45773-d6b0-411f-906f-eb11eaf9b85a",
     "16343829621e860ae7",
     "1634376287b4fa9014",
     "1634385274637d9fb6",
@@ -693,7 +558,6 @@
     "1634385439b08f2fc8",
     "1634385501449ca5a3",
     "16626295064e5d8c4c",
-    "16343859739bc58adb",
-    "1662633271b0aa2fac"
+    "16343859739bc58adb"
   ]
 }
