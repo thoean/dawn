@@ -6,21 +6,13 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Dunkle Schokolade mit Ursprung",
+            "heading": "Our shop has closed",
             "heading_size": "medium"
-          }
-        },
-        "66a627ce-09bb-4e1a-a479-35aae304bc05": {
-          "type": "text",
-          "settings": {
-            "text": "Bean to Bar Schokolade aus der Schweiz und aller Welt",
-            "text_style": "body"
           }
         }
       },
       "block_order": [
-        "heading",
-        "66a627ce-09bb-4e1a-a479-35aae304bc05"
+        "heading"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Colombia_-_a_region_with_fine_flavored_cacao.jpg",
@@ -40,6 +32,7 @@
     },
     "d0110988-4c90-4b81-aaf2-787e6a981c4f": {
       "type": "featured-blog",
+      "disabled": true,
       "settings": {
         "heading": "Blog posts",
         "blog": "news",
@@ -167,6 +160,7 @@
     },
     "1632342325414527c5": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "1632342325414527c5-0": {
           "type": "heading",
@@ -211,6 +205,7 @@
     },
     "rich_text": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
@@ -303,6 +298,7 @@
     },
     "1634376287b4fa9014": {
       "type": "collection-list",
+      "disabled": true,
       "blocks": {
         "1634376287b4fa9014-0": {
           "type": "featured_collection",
@@ -390,6 +386,7 @@
     },
     "16343854376549fa13": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "16343854376549fa13-1": {
           "type": "text",
@@ -429,6 +426,7 @@
     },
     "1634385501449ca5a3": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "1634385501449ca5a3-0": {
           "type": "heading",
@@ -467,6 +465,7 @@
     },
     "16626295064e5d8c4c": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "1662629506a2d1f676-0": {
           "type": "heading",
@@ -520,6 +519,7 @@
     },
     "16343859739bc58adb": {
       "type": "newsletter",
+      "disabled": true,
       "blocks": {
         "16343859739bc58adb-0": {
           "type": "heading",
